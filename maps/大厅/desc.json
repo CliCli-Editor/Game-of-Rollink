@@ -5,8 +5,8 @@
     ], 
     "group_name": "", 
     "is_neox_map": false, 
-    "name": "\u5927\u5385(steam_lobby)", 
-    "publish_name": "", 
+    "name": "Hall(steam_lobby)", 
+    "publish_name": "Hall", 
     "theme": 1, 
     "trigger_lazy_load": true
 }

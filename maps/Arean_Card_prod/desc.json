@@ -5,8 +5,8 @@
     ], 
     "group_name": "", 
     "is_neox_map": false, 
-    "name": "\u7f57\u51cc\u7ade\u6280\u573a", 
-    "publish_name": "\u7f57\u51cc\u7ade\u6280\u573a", 
+    "name": "Game Scene", 
+    "publish_name": "Game Scene", 
     "theme": 1, 
     "trigger_lazy_load": true
 }
