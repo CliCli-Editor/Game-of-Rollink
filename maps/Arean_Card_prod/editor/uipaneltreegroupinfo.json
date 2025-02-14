@@ -2,11 +2,160 @@
  {
   "name": "code_ui_custom_panel_tree", 
   "key": 2147483647, 
-  "group": []
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "fdbcb3cc-6e44-4c12-8a0f-dccc0e2631d9", 
+     "BattleBegins"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "8ceaa740-3566-47b1-88fa-84cbb67e76ec", 
+     "BattleEnd"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "e0cc071a-1453-4f4c-8061-57b600c629d1", 
+     "BattlePanel"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "7b5d0a94-fb4a-48d5-8375-d761f6bfedac", 
+     "BetPanel"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "1892f641-21f7-4f9e-ad29-5d736a9954f4", 
+     "ExitPanel"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "3c52d621-d795-4670-987a-6e15cf6f547f", 
+     "GuidePanel"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "bc2fd302-85b0-4b7e-b2af-ada449bdc081", 
+     "LordSelectPanel"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "cb442f58-2deb-4bdf-8924-84f5b969a89b", 
+     "panel_2"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "504010a1-72b5-41fd-bdd5-61621f86ce11", 
+     "ResultPanel"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "21685c75-34cb-4cc1-bab2-2ea7a1ba027d", 
+     "setting_Panel"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "1ac7bd5f-e49c-425b-b2e6-c8f87814b809", 
+     "SkillPanel"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "1f389c59-89c2-440c-9e69-3c0f05246722", 
+     "ToastPanel"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "ebf35bce-5d10-4443-882e-44ce4c89afde", 
+     "Transitions"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "02068e93-0ed3-4024-b6d8-b629e6930830", 
+     "watchingPanel"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "42b6df15-fd07-45f1-b030-efe177bd2288", 
+     "_refPanel"
+    ]
+   }
+  ]
  }, 
  {
   "name": "code_ui_preset_panel_tree", 
   "key": 2147483646, 
-  "group": []
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "33f0362d-5a70-45e2-850b-d89082015a64", 
+     "CommonTip"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "GameHUD", 
+     "GameHUD"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "aa7ea525-8c73-4585-a6b6-ac706cf0e2f6", 
+     "LoadingPanel"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "f09f15f5-e2d0-441e-be6f-325a88472a01", 
+     "LogoPanel"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "f5e50920-7b3d-4076-b6a8-599b70783552", 
+     "loss"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "d4c01f64-7413-4c8e-b0e5-4297d4a59c7a", 
+     "win"
+    ]
+   }
+  ]
  }
 ]

@@ -867,7 +867,8 @@
                 ]
             }, 
             "type": 10, 
-            "uid": "8e813569-a73f-4efa-9f2b-8d29ed3fb39e"
+            "uid": "8e813569-a73f-4efa-9f2b-8d29ed3fb39e", 
+            "visible": false
         }, 
         {
             "children": [], 
@@ -1002,7 +1003,8 @@
             "prefab_sub_key": null, 
             "scene_ui_name": null, 
             "type": 1, 
-            "uid": "a3d35a3f-dd15-4478-9f6c-66cf83f338a3"
+            "uid": "a3d35a3f-dd15-4478-9f6c-66cf83f338a3", 
+            "visible": false
         }, 
         {
             "children": [], 
@@ -1047,7 +1049,8 @@
             "prefab_sub_key": null, 
             "scene_ui_name": null, 
             "type": 1, 
-            "uid": "06dca5ec-bf53-47a3-b8f5-0d09ef55acfc"
+            "uid": "06dca5ec-bf53-47a3-b8f5-0d09ef55acfc", 
+            "visible": false
         }, 
         {
             "children": [], 
@@ -1092,7 +1095,8 @@
             "prefab_sub_key": null, 
             "scene_ui_name": null, 
             "type": 1, 
-            "uid": "a0245597-ce95-4615-b652-e66728586954"
+            "uid": "a0245597-ce95-4615-b652-e66728586954", 
+            "visible": false
         }, 
         {
             "children": [], 
@@ -1178,7 +1182,8 @@
                 ]
             }, 
             "type": 15, 
-            "uid": "d09afa1a-e088-40c4-8529-110ef54ed3d5"
+            "uid": "d09afa1a-e088-40c4-8529-110ef54ed3d5", 
+            "visible": false
         }, 
         {
             "children": [], 
@@ -1198,7 +1203,8 @@
             "prefab_sub_key": null, 
             "scene_ui_name": null, 
             "type": 3, 
-            "uid": "f04c6d40-a787-4879-9637-636e2d495208"
+            "uid": "f04c6d40-a787-4879-9637-636e2d495208", 
+            "visible": false
         }
     ], 
     "name": "panel_1", 

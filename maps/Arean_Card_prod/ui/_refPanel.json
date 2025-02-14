@@ -1,0 +1,127 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "cap_insets": {
+                "__tuple__": true, 
+                "items": [
+                    640.0, 
+                    360.0, 
+                    640.0, 
+                    360.0
+                ]
+            }, 
+            "children": [], 
+            "event_list": [], 
+            "image": 133007, 
+            "name": "image1", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0, 
+                    0.0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "9ad8c416-d6e1-47cd-8003-eba23bb044a2", 
+            "visible": false
+        }, 
+        {
+            "cap_insets": {
+                "__tuple__": true, 
+                "items": [
+                    640.0, 
+                    360.0, 
+                    640.0, 
+                    360.0
+                ]
+            }, 
+            "children": [], 
+            "event_list": [], 
+            "image": 133008, 
+            "name": "image2", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0, 
+                    0.0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "83c99ca1-ff03-483e-ae85-5e842eea4d98", 
+            "visible": false
+        }, 
+        {
+            "cap_insets": {
+                "__tuple__": true, 
+                "items": [
+                    640.0, 
+                    360.0, 
+                    640.0, 
+                    360.0
+                ]
+            }, 
+            "children": [], 
+            "event_list": [], 
+            "image": 133011, 
+            "name": "image3", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0, 
+                    0.0, 
+                    0.0, 
+                    0, 
+                    0
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    0.0, 
+                    0.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "e5d62734-4b5d-4fba-acb3-50261a597382", 
+            "visible": false
+        }
+    ], 
+    "name": "_refPanel", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "42b6df15-fd07-45f1-b030-efe177bd2288", 
+    "visible": true, 
+    "zorder": 400
+}

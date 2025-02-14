@@ -2,7 +2,36 @@
  {
   "name": "code_ui_custom_panel_tree", 
   "key": 2147483647, 
-  "group": []
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     "b009e426-5eac-4f20-b7b4-99dd6d57a988", 
+     "PlayerInfo"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "53f62de4-34fe-45af-ba25-f239a9266909", 
+     "placed_pet_bg_up"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "eaf629cd-835f-4e34-a04b-c5c43aceaa7a", 
+     "placed_pet_bg"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
+     "7b7d0252-3639-4446-a69e-5c30acd9a0f4", 
+     "BetFinish"
+    ]
+   }
+  ]
  }, 
  {
   "name": "code_ui_preset_panel_tree", 
