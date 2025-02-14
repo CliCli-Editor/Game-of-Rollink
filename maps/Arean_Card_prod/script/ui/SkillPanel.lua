@@ -525,6 +525,9 @@ up.game:event('Keyboard-Down',function(_,player,key)
             end
             return
         end
+		if key == KEY['ESC'] then
+			LeftDown_skill_off(player)
+		end
     end
 end)
 SkillPanel:init_skill_panel_ui_event()
