@@ -1,0 +1,61 @@
+{
+    "column_width": {}, 
+    "table_data": {
+        "data": [
+            [
+                "rank_id", 
+                "name_comment", 
+                "name", 
+                "icon", 
+                "crown_require"
+            ], 
+            [
+                "int", 
+                "string", 
+                "string", 
+                "image", 
+                "int"
+            ], 
+            [
+                "1", 
+                "\u9ed1\u94c1", 
+                "%rank_1", 
+                903414, 
+                "0"
+            ], 
+            [
+                "2", 
+                "\u9752\u94dc", 
+                "%rank_2", 
+                903413, 
+                "500"
+            ], 
+            [
+                "3", 
+                "\u767d\u94f6", 
+                "%rank_3", 
+                903412, 
+                "1000"
+            ], 
+            [
+                "4", 
+                "\u9ec4\u91d1", 
+                "%rank_4", 
+                903411, 
+                "1500"
+            ], 
+            [
+                "5", 
+                "\u9ec4\u94bb", 
+                "%rank_5", 
+                903410, 
+                "2000"
+            ]
+        ], 
+        "key": [
+            0
+        ]
+    }, 
+    "table_type": 0, 
+    "tid": 2
+}

@@ -1,0 +1,40 @@
+{
+    "describe": -1509297481, 
+    "editor_res": false, 
+    "key": 204070, 
+    "map_name": "luoling", 
+    "model_id": 521044, 
+    "name": 222219300, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Magical", 
+            "code_Middle ages", 
+            "code_Building part", 
+            "code_Yellow", 
+            "code_Metal", 
+            "code_tag_model_Windows and doors", 
+            "P9(\u897f\u65b9\u4e2d\u4e16\u7eaa\u7cfb\u5217)"
+        ]
+    }, 
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            0.5, 
+            2
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/204070", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "res_identify": "all", 
+    "res_type": "code_model_Scene,code_Building,code_Building part", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_204070"
+}

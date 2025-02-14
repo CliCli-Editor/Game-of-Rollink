@@ -1,0 +1,161 @@
+{
+    "local_variable": {
+        "376258561": {
+            "variable_dict": {
+                "POINT": {
+                    "\u6280\u80fd\u9009\u4e2d\u70b9": [
+                        0, 
+                        0, 
+                        0
+                    ]
+                }
+            }, 
+            "variable_length_dict": {
+                "\u6280\u80fd\u9009\u4e2d\u70b9": 0
+            }
+        }
+    }, 
+    "trigger_dict": {
+        "376258561": {
+            "action": [
+                {
+                    "action_type": "CREATE_PROJECTILE_NEW", 
+                    "args_list": [
+                        {
+                            "arg_type": 100062, 
+                            "args_list": [
+                                134235063
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100014, 
+                                    "args_list": [], 
+                                    "sub_type": "CUR_ABILITY"
+                                }
+                            ], 
+                            "sub_type": "ABILITY_RELEASE_POSITION"
+                        }, 
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "ABILITY_OWNER"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 376258561000294, 
+                    "enable": true, 
+                    "op_arg": [
+                        null, 
+                        {
+                            "arg_type": 100014, 
+                            "args_list": [], 
+                            "sub_type": "CUR_ABILITY"
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                10.0
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        null, 
+                        null, 
+                        null, 
+                        null
+                    ], 
+                    "op_arg_enable": [
+                        false, 
+                        true, 
+                        true, 
+                        false, 
+                        false, 
+                        false, 
+                        false
+                    ]
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 376258561000002, 
+                    "enable": true, 
+                    "event_type": "ABILITY_SP_END"
+                }
+            ], 
+            "group_id": 134222371, 
+            "p_trigger_id": null, 
+            "trigger_id": 376258561, 
+            "trigger_name": "\u6bd2\u6c60-\u65bd\u6cd5\u51fa\u624b", 
+            "valid": true, 
+            "var_data": [
+                {
+                    "POINT": {
+                        "\u6280\u80fd\u9009\u4e2d\u70b9": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                {
+                    "\u6280\u80fd\u9009\u4e2d\u70b9": 0
+                }, 
+                [
+                    "\u6280\u80fd\u9009\u4e2d\u70b9"
+                ]
+            ]
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        376258561, 
+                        "\u6bd2\u6c60-\u65bd\u6cd5\u51fa\u624b"
+                    ]
+                }
+            ], 
+            "key": 134222371, 
+            "name": "134222371"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {
+        "NEW_TIMER": {
+            "\u6bd2\u6c60": -1
+        }, 
+        "SFX_ENTITY": {
+            "\u6bd2\u6c60\u7279\u6548": 0
+        }
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6bd2\u6c60", 
+                "\u6bd2\u6c60"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6bd2\u6c60\u7279\u6548", 
+                "\u6bd2\u6c60\u7279\u6548"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "\u6bd2\u6c60": 0, 
+        "\u6bd2\u6c60\u7279\u6548": 0
+    }
+}

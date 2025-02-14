@@ -1,0 +1,115 @@
+{
+    "attach_models": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cast_shadow": false, 
+    "collision_box": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -27, 
+                4.5
+            ], 
+            [
+                -27, 
+                -4.5
+            ], 
+            [
+                27, 
+                -4.5
+            ], 
+            [
+                27, 
+                4.5
+            ]
+        ]
+    }, 
+    "collision_height": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "collision_points": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -7, 
+                -1.125
+            ], 
+            [
+                6, 
+                1.125
+            ], 
+            0
+        ]
+    }, 
+    "description": -1254008866, 
+    "effect_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "fresnel_color": [
+        255, 
+        0, 
+        0, 
+        1
+    ], 
+    "fresnel_emissive_color_strength": 0, 
+    "fresnel_exp": 1, 
+    "icon": 100000, 
+    "key": 100064, 
+    "kv": {
+        "td_type": {
+            "annotation": "", 
+            "editor_key": 0, 
+            "editor_name": "", 
+            "editor_value": "key", 
+            "etype": 1, 
+            "key": "td_type", 
+            "remark": "td\u7f16\u8f91\u5668\u6446\u4ef6\u7c7b\u578b", 
+            "show_type": 23, 
+            "type_name": "INTEGER", 
+            "value": 105
+        }
+    }, 
+    "material_alpha": 0, 
+    "material_change": 0, 
+    "material_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "material_color_intensity": 0, 
+    "model": 100141, 
+    "model_opacity": 1, 
+    "name": 1674512963, 
+    "random_max_scale": 1.2, 
+    "random_min_scale": 0.8, 
+    "receive_decal": false, 
+    "scale": 1, 
+    "sfx_key": 0, 
+    "sfx_offset": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "sfx_scale": 1, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "theme": 2, 
+    "type": 64, 
+    "ui_scale": 1, 
+    "uid": "exordinary_railing_1", 
+    "use_fresnel": false, 
+    "use_physics": false, 
+    "visible": true
+}

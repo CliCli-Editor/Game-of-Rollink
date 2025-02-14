@@ -1,0 +1,353 @@
+{
+    "describe": 1793739292, 
+    "editor_res": false, 
+    "key": 200806, 
+    "map_name": "x1hero", 
+    "model_id": 504024, 
+    "name": 1825970464, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Hero", 
+            "code_Chinese style", 
+            "code_Male", 
+            "code_Adult", 
+            "code_Strong", 
+            "code_Archer", 
+            "code_Red"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/200806", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "socket_info": {
+        "Back_Weapon": {
+            "__tuple__": true, 
+            "items": [
+                "Back_Weapon", 
+                "b_Bweapon", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "Base": {
+            "__tuple__": true, 
+            "items": [
+                "Base", 
+                "b_Root", 
+                0.00689, 
+                0.0, 
+                -0.088195
+            ]
+        }, 
+        "Body": {
+            "__tuple__": true, 
+            "items": [
+                "Body", 
+                "b_Spine", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "HeadM": {
+            "__tuple__": true, 
+            "items": [
+                "HeadM", 
+                "b_Head", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "LEFT_SHOULDER": {
+            "__tuple__": true, 
+            "items": [
+                "LEFT_SHOULDER", 
+                "b_Spine2", 
+                0.279607, 
+                0.136735, 
+                0.019945
+            ]
+        }, 
+        "Left_Wing": {
+            "__tuple__": true, 
+            "items": [
+                "Left_Wing", 
+                "b_Spine2", 
+                0.169869, 
+                0.094825, 
+                0.160275
+            ]
+        }, 
+        "RIGHT_SHOULDER": {
+            "__tuple__": true, 
+            "items": [
+                "RIGHT_SHOULDER", 
+                "b_Spine2", 
+                0.280126, 
+                -0.136255, 
+                0.02675
+            ]
+        }, 
+        "Right_Wing": {
+            "__tuple__": true, 
+            "items": [
+                "Right_Wing", 
+                "b_Spine2", 
+                0.16668, 
+                -0.11, 
+                0.165125
+            ]
+        }, 
+        "back": {
+            "__tuple__": true, 
+            "items": [
+                "back", 
+                "b_Spine2", 
+                0.013655, 
+                -0.0, 
+                0.28545
+            ]
+        }, 
+        "chest": {
+            "__tuple__": true, 
+            "items": [
+                "chest", 
+                "b_Spine2", 
+                -0.032795, 
+                0.0, 
+                -0.122328
+            ]
+        }, 
+        "foot1": {
+            "__tuple__": true, 
+            "items": [
+                "foot1", 
+                "b_LeftToe", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "foot2": {
+            "__tuple__": true, 
+            "items": [
+                "foot2", 
+                "b_RightToe", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand1": {
+            "__tuple__": true, 
+            "items": [
+                "hand1", 
+                "b_LeftHand", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand2": {
+            "__tuple__": true, 
+            "items": [
+                "hand2", 
+                "b_RightHand", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "head": {
+            "__tuple__": true, 
+            "items": [
+                "head", 
+                "b_Root", 
+                0.0, 
+                2.5, 
+                0.0
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "b_Pelvis", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "left_hand": {
+            "__tuple__": true, 
+            "items": [
+                "left_hand", 
+                "b_LeftForeArm", 
+                0.05, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "left_hand_effect": {
+            "__tuple__": true, 
+            "items": [
+                "left_hand_effect", 
+                "b_LeftHand", 
+                0.055053, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "left_weapon": {
+            "__tuple__": true, 
+            "items": [
+                "left_weapon", 
+                "b_Lweapon", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "missile_attack": {
+            "__tuple__": true, 
+            "items": [
+                "missile_attack", 
+                "b_Root", 
+                -0.141783, 
+                1.55, 
+                1.2093
+            ]
+        }, 
+        "missile_attack0": {
+            "__tuple__": true, 
+            "items": [
+                "missile_attack0", 
+                "b_Root", 
+                -0.047393, 
+                1.5025, 
+                1.34888
+            ]
+        }, 
+        "missile_attack1": {
+            "__tuple__": true, 
+            "items": [
+                "missile_attack1", 
+                "b_Root", 
+                -0.091676, 
+                1.4825, 
+                1.35405
+            ]
+        }, 
+        "right_hand": {
+            "__tuple__": true, 
+            "items": [
+                "right_hand", 
+                "b_RightForeArm", 
+                0.05, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "right_hand_effect": {
+            "__tuple__": true, 
+            "items": [
+                "right_hand_effect", 
+                "b_RightHand", 
+                0.068386, 
+                0.01461, 
+                0.0
+            ]
+        }, 
+        "right_weapon": {
+            "__tuple__": true, 
+            "items": [
+                "right_weapon", 
+                "b_Rweapon", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "root": {
+            "__tuple__": true, 
+            "items": [
+                "root", 
+                "b_Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "shine1": {
+            "__tuple__": true, 
+            "items": [
+                "shine1", 
+                "b_LeftArm_annex01", 
+                0.076517, 
+                0.0, 
+                0.028272
+            ]
+        }, 
+        "shine2": {
+            "__tuple__": true, 
+            "items": [
+                "shine2", 
+                "b_Pelvis_annex07", 
+                0.0, 
+                0.0, 
+                0.025402
+            ]
+        }, 
+        "shine3": {
+            "__tuple__": true, 
+            "items": [
+                "shine3", 
+                "b_Pelvis_annex1000", 
+                0.171628, 
+                0.089471, 
+                0.094282
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "b_Head", 
+                0.2, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "tail": {
+            "__tuple__": true, 
+            "items": [
+                "tail", 
+                "b_Pelvis", 
+                -0.125075, 
+                0.0125, 
+                0.0
+            ]
+        }, 
+        "unit_info": {
+            "__tuple__": true, 
+            "items": [
+                "unit_info", 
+                "b_Root", 
+                -0.004723, 
+                1.805, 
+                0.103768
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_200806"
+}

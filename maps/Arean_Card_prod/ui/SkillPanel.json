@@ -1,0 +1,1585 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "adapter_option": [
+                false, 
+                true, 
+                true, 
+                false, 
+                900.0, 
+                0.0, 
+                0.0, 
+                1740.0
+            ], 
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 903538, 
+                            "name": "img", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    18.0, 
+                                    18.0, 
+                                    50, 
+                                    50, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    16.0, 
+                                    16.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "22008d85-08f6-45af-aa1d-42b70d904f38"
+                        }
+                    ], 
+                    "disabled_picture": 903482, 
+                    "event_list": [], 
+                    "name": "show", 
+                    "normal_picture": 903485, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            30.0001, 
+                            199.0001, 
+                            16.6667, 
+                            110.5556, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "press_picture": 903483, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            36.0, 
+                            36.0
+                        ]
+                    }, 
+                    "suspend_picture": 903484, 
+                    "type": 1, 
+                    "uid": "8ddef963-358f-4a94-beb0-3f5bfb681e95", 
+                    "visible": false
+                }, 
+                {
+                    "adapter_option": [
+                        false, 
+                        true, 
+                        true, 
+                        false, 
+                        80.0, 
+                        0.0, 
+                        0.0, 
+                        -294.0
+                    ], 
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        true, 
+                                        true, 
+                                        0.0001, 
+                                        87.0899, 
+                                        0.5, 
+                                        19.5
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                -10.0001, 
+                                                -91.1799, 
+                                                -10.0, 
+                                                -10.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "image": 130967, 
+                                            "name": "card", 
+                                            "open_adapter": true, 
+                                            "pos_data": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    72.5, 
+                                                    40.0401, 
+                                                    50.0, 
+                                                    24.8295, 
+                                                    1, 
+                                                    1
+                                                ]
+                                            }, 
+                                            "prefab_sub_key": null, 
+                                            "scene_ui_name": null, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    165.0, 
+                                                    262.44
+                                                ]
+                                            }, 
+                                            "type": 4, 
+                                            "uid": "ec67d856-820b-4393-b826-1eca45f4f3a2"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                143.26, 
+                                                4.0, 
+                                                12.5, 
+                                                12.5
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "MSYH", 
+                                                    14
+                                                ]
+                                            }, 
+                                            "font_min_size": 8, 
+                                            "name": "name", 
+                                            "open_adapter": true, 
+                                            "over_pattern": 2, 
+                                            "pos_data": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    72.5, 
+                                                    11.0, 
+                                                    50.0, 
+                                                    6.8213, 
+                                                    1, 
+                                                    1
+                                                ]
+                                            }, 
+                                            "prefab_sub_key": null, 
+                                            "scene_ui_name": null, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    120.0, 
+                                                    14.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "Skill Name", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "5ed2b7cf-5f79-413f-b96c-81ecf4ff7e95"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                175.06, 
+                                                -65.0, 
+                                                5.0, 
+                                                5.0
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    1, 
+                                                    0
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "MSYH", 
+                                                    10
+                                                ]
+                                            }, 
+                                            "name": "tips", 
+                                            "open_adapter": true, 
+                                            "pos_data": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    72.5, 
+                                                    -39.4, 
+                                                    50.0, 
+                                                    -24.4326, 
+                                                    1, 
+                                                    1
+                                                ]
+                                            }, 
+                                            "prefab_sub_key": null, 
+                                            "scene_ui_name": null, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    135.0, 
+                                                    51.2
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "5636be15-5d79-4bf6-9e3d-571430f1cb14"
+                                        }
+                                    ], 
+                                    "event_list": [], 
+                                    "image": 131006, 
+                                    "name": "skill", 
+                                    "open_adapter": true, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            73.0, 
+                                            167.7199, 
+                                            44.2424, 
+                                            67.5337, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            145.0, 
+                                            161.26
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "4281c1d1-608c-49b3-a988-fea2219f3c85"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        -69.9999, 
+                                        -20.0001, 
+                                        -8.0, 
+                                        11.0
+                                    ], 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134003, 
+                                    "name": "select", 
+                                    "open_adapter": true, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            73.0, 
+                                            149.1749, 
+                                            44.2424, 
+                                            60.0664, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            162.0, 
+                                            338.35
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "2e339fc7-1583-478d-aba7-fd64071053bd", 
+                                    "visible": false
+                                }
+                            ], 
+                            "event_list": [], 
+                            "image": 999, 
+                            "name": "skill_1", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    140.9998, 
+                                    137.0, 
+                                    29.7468, 
+                                    137.0, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    165.0, 
+                                    248.35
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "92845de7-3747-4a83-b994-b4d0b3da3b0c"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        true, 
+                                        false, 
+                                        0.0001, 
+                                        87.0899, 
+                                        0.5, 
+                                        19.5
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                -10.0001, 
+                                                -91.1799, 
+                                                -10.0, 
+                                                -10.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "image": 130967, 
+                                            "name": "card", 
+                                            "open_adapter": true, 
+                                            "pos_data": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    72.5, 
+                                                    40.0401, 
+                                                    50.0, 
+                                                    24.8295, 
+                                                    1, 
+                                                    1
+                                                ]
+                                            }, 
+                                            "prefab_sub_key": null, 
+                                            "scene_ui_name": null, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    165.0, 
+                                                    262.44
+                                                ]
+                                            }, 
+                                            "type": 4, 
+                                            "uid": "7bd890ce-a3e7-48c4-9e8a-801e31654770"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                143.26, 
+                                                4.0, 
+                                                12.5, 
+                                                12.5
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "MSYH", 
+                                                    14
+                                                ]
+                                            }, 
+                                            "font_min_size": 8, 
+                                            "name": "name", 
+                                            "open_adapter": true, 
+                                            "over_pattern": 2, 
+                                            "pos_data": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    72.5, 
+                                                    11.0, 
+                                                    50.0, 
+                                                    6.8213, 
+                                                    1, 
+                                                    1
+                                                ]
+                                            }, 
+                                            "prefab_sub_key": null, 
+                                            "scene_ui_name": null, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    120.0, 
+                                                    14.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "Skill Name", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "10061032-01f6-4126-b61e-72e0f0c2a2a0"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                175.06, 
+                                                -65.0, 
+                                                5.0, 
+                                                5.0
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    1, 
+                                                    0
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "MSYH", 
+                                                    10
+                                                ]
+                                            }, 
+                                            "name": "tips", 
+                                            "open_adapter": true, 
+                                            "pos_data": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    72.5, 
+                                                    -39.4, 
+                                                    50.0, 
+                                                    -24.4326, 
+                                                    1, 
+                                                    1
+                                                ]
+                                            }, 
+                                            "prefab_sub_key": null, 
+                                            "scene_ui_name": null, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    135.0, 
+                                                    51.2
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "efff9648-8578-4be4-bf72-859f7bc67c89"
+                                        }
+                                    ], 
+                                    "event_list": [], 
+                                    "image": 131006, 
+                                    "name": "skill", 
+                                    "open_adapter": true, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            73.0, 
+                                            167.7199, 
+                                            44.2424, 
+                                            67.5337, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            145.0, 
+                                            161.26
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "fda899fd-418d-4d62-b487-95f422a648ff"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        -20.0, 
+                                        -20.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134003, 
+                                    "name": "select", 
+                                    "open_adapter": true, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            82.5, 
+                                            124.175, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            165.0, 
+                                            288.35
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "8cebfeea-1b7d-4d4e-b41e-5cf844546c5f", 
+                                    "visible": false
+                                }
+                            ], 
+                            "event_list": [], 
+                            "image": 999, 
+                            "name": "skill_2", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    281.5001, 
+                                    148.0, 
+                                    59.3882, 
+                                    148.0, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    165.0, 
+                                    248.35
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "0eb5c723-8c19-4ee8-9829-21f1b0e33645"
+                        }, 
+                        {
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        true, 
+                                        true, 
+                                        0.0001, 
+                                        87.0899, 
+                                        0.5, 
+                                        19.5
+                                    ], 
+                                    "children": [
+                                        {
+                                            "adapter_option": [
+                                                true, 
+                                                false, 
+                                                true, 
+                                                false, 
+                                                -10.0001, 
+                                                -91.1799, 
+                                                -10.0, 
+                                                -10.0
+                                            ], 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "image": 130967, 
+                                            "name": "card", 
+                                            "open_adapter": true, 
+                                            "pos_data": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    72.5, 
+                                                    40.0401, 
+                                                    50.0, 
+                                                    24.8295, 
+                                                    1, 
+                                                    1
+                                                ]
+                                            }, 
+                                            "prefab_sub_key": null, 
+                                            "scene_ui_name": null, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    165.0, 
+                                                    262.44
+                                                ]
+                                            }, 
+                                            "type": 4, 
+                                            "uid": "015e4274-6df8-43a5-97d4-dd1c30e393d6"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                143.26, 
+                                                4.0, 
+                                                12.5, 
+                                                12.5
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    2, 
+                                                    8
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "MSYH", 
+                                                    14
+                                                ]
+                                            }, 
+                                            "font_min_size": 8, 
+                                            "name": "name", 
+                                            "open_adapter": true, 
+                                            "over_pattern": 2, 
+                                            "pos_data": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    72.5, 
+                                                    11.0, 
+                                                    50.0, 
+                                                    6.8213, 
+                                                    1, 
+                                                    1
+                                                ]
+                                            }, 
+                                            "prefab_sub_key": null, 
+                                            "scene_ui_name": null, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    120.0, 
+                                                    14.0
+                                                ]
+                                            }, 
+                                            "text": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "Skill Name", 
+                                                    false
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "47fb4f41-8854-4fc3-be6b-d8f2f4c0486c"
+                                        }, 
+                                        {
+                                            "adapter_option": [
+                                                false, 
+                                                true, 
+                                                true, 
+                                                true, 
+                                                175.06, 
+                                                -65.0, 
+                                                5.0, 
+                                                5.0
+                                            ], 
+                                            "alignment": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    1, 
+                                                    0
+                                                ]
+                                            }, 
+                                            "children": [], 
+                                            "event_list": [], 
+                                            "font": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "MSYH", 
+                                                    10
+                                                ]
+                                            }, 
+                                            "name": "tips", 
+                                            "open_adapter": true, 
+                                            "pos_data": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    72.5, 
+                                                    -39.4, 
+                                                    50.0, 
+                                                    -24.4326, 
+                                                    1, 
+                                                    1
+                                                ]
+                                            }, 
+                                            "prefab_sub_key": null, 
+                                            "scene_ui_name": null, 
+                                            "size": {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    135.0, 
+                                                    51.2
+                                                ]
+                                            }, 
+                                            "type": 3, 
+                                            "uid": "eb68c002-3d68-418e-a37f-98e1fe21e280"
+                                        }
+                                    ], 
+                                    "event_list": [], 
+                                    "image": 131006, 
+                                    "name": "skill", 
+                                    "open_adapter": true, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            73.0, 
+                                            167.7199, 
+                                            44.2424, 
+                                            67.5337, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            145.0, 
+                                            161.26
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "efc5c899-370e-4f7c-8e18-5a43d0ad70a9"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        -20.0, 
+                                        -20.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 134003, 
+                                    "name": "select", 
+                                    "open_adapter": true, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            82.5, 
+                                            124.175, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            165.0, 
+                                            288.35
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "15db9e1d-0808-42cd-95bf-ea6600c3a48b", 
+                                    "visible": false
+                                }
+                            ], 
+                            "event_list": [], 
+                            "image": 999, 
+                            "name": "skill_3", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    421.0002, 
+                                    137.0, 
+                                    88.8186, 
+                                    137.0, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    165.0, 
+                                    248.35
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "b24138f3-9923-4677-8699-8ba63049bb05"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 999, 
+                    "name": "SkillSlot", 
+                    "open_adapter": true, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            237.0001, 
+                            50.0, 
+                            131.6667, 
+                            27.7778, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            474.0, 
+                            100.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "49d1188d-fe9e-408f-bf3c-edeba22b3984"
+                }, 
+                {
+                    "adapter_option": [
+                        false, 
+                        true, 
+                        true, 
+                        false, 
+                        132.0, 
+                        0.0, 
+                        0.0, 
+                        -326.0
+                    ], 
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            10, 
+                            10, 
+                            36, 
+                            36
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 903501, 
+                            "name": "image_94", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    253.0, 
+                                    24.0, 
+                                    50, 
+                                    50, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    506.0, 
+                                    48.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "abd698f1-99e0-49da-8da7-7833719379a4"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 903502, 
+                    "name": "skill_bg", 
+                    "open_adapter": true, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            253.0001, 
+                            23.9999, 
+                            140.5556, 
+                            13.3333, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            506.0, 
+                            48.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "23f4a678-0973-4f26-ab97-18d3564410b3"
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "name": "btn", 
+                            "normal_picture": 903503, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    22.5, 
+                                    22.5, 
+                                    50, 
+                                    50, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    22.0, 
+                                    28.0
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "0d6872e2-04aa-42d8-b35a-65c2c7acc113"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 999, 
+                    "name": "skill_1", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            147.0001, 
+                            24.5, 
+                            81.6667, 
+                            13.6111, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            45.0, 
+                            45.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "3830dfe5-772b-4357-b9f2-b2ceff199be0"
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "name": "btn", 
+                            "normal_picture": 903506, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    22.5, 
+                                    22.5, 
+                                    50, 
+                                    50, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    22.0, 
+                                    28.0
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "f83a7c3b-ffe6-442a-bc97-6eb5987123aa"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 999, 
+                    "name": "skill_2", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            281.0, 
+                            25.9999, 
+                            156.1111, 
+                            14.4444, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            45.0, 
+                            45.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "3ba07a16-2a4d-453f-8778-8cac0de2a69d"
+                }, 
+                {
+                    "children": [
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "name": "btn", 
+                            "normal_picture": 903509, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    22.5, 
+                                    22.5, 
+                                    50, 
+                                    50, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    22.0, 
+                                    28.0
+                                ]
+                            }, 
+                            "type": 1, 
+                            "uid": "90f4651b-e627-4d1b-9f78-ff991816ef6a"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 999, 
+                    "name": "skill_3", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            415.0001, 
+                            23.0, 
+                            230.5556, 
+                            12.7778, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            45.0, 
+                            45.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "6d0b6cb4-23f7-4b08-828b-57c339a7b463"
+                }, 
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            3, 
+                            5, 
+                            55, 
+                            48
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                0.0, 
+                                0.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "alignment": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2, 
+                                    8
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "font_color": {
+                                "__tuple__": true, 
+                                "items": [
+                                    50, 
+                                    28, 
+                                    0, 
+                                    255
+                                ]
+                            }, 
+                            "name": "text", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    23.0, 
+                                    54.0, 
+                                    50.0, 
+                                    60.0, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    30.0, 
+                                    30.0
+                                ]
+                            }, 
+                            "text": {
+                                "__tuple__": true, 
+                                "items": [
+                                    "1", 
+                                    false
+                                ]
+                            }, 
+                            "type": 3, 
+                            "uid": "825a618a-2f43-439d-a75b-98c966330b7b"
+                        }, 
+                        {
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 903513, 
+                            "name": "img", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    23.0, 
+                                    30.0, 
+                                    50.0, 
+                                    33.3333, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    22.0, 
+                                    22.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "34d24082-65d4-4938-9b13-136c0bfafdd6"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 903514, 
+                    "name": "skill_cnt", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            28.0001, 
+                            43.9999, 
+                            15.5556, 
+                            24.4444, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            46.0, 
+                            90.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "e6a6509f-0a16-4ed7-bb66-5dc6e0e1bd0d"
+                }, 
+                {
+                    "can_drag": true, 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                false, 
+                                true, 
+                                false, 
+                                21.5201, 
+                                203.3399, 
+                                21.5198, 
+                                21.5302
+                            ], 
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        false, 
+                                        true, 
+                                        false, 
+                                        -21.52, 
+                                        -203.34, 
+                                        -21.5201, 
+                                        -21.5299
+                                    ], 
+                                    "cap_insets": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            43, 
+                                            28, 
+                                            106, 
+                                            222
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 130967, 
+                                    "name": "card", 
+                                    "open_adapter": true, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            163.4799, 
+                                            90.905, 
+                                            50.0015, 
+                                            24.9993, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            370.0, 
+                                            588.49
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "15e4d638-4cf9-473c-8ef0-0a7f62716704"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        324.63, 
+                                        9.0, 
+                                        30.0, 
+                                        30.0
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "MSYH", 
+                                            20
+                                        ]
+                                    }, 
+                                    "font_min_size": 14, 
+                                    "name": "name", 
+                                    "open_adapter": true, 
+                                    "over_pattern": 2, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            163.475, 
+                                            24.0, 
+                                            50.0, 
+                                            6.6001, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            266.95, 
+                                            30.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "Skill Name", 
+                                            false
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "8155f98e-7a45-4794-a388-cd166e28b288"
+                                }, 
+                                {
+                                    "adapter_option": [
+                                        false, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        386.43, 
+                                        -140.0, 
+                                        10.5, 
+                                        10.5
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1, 
+                                            0
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "MSYH", 
+                                            18
+                                        ]
+                                    }, 
+                                    "name": "tips", 
+                                    "open_adapter": true, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            163.475, 
+                                            -81.4, 
+                                            50.0, 
+                                            -22.3854, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            305.95, 
+                                            117.2
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "b50d8282-620e-4c1a-98d7-4241a89f1d02"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "image": 131006, 
+                            "name": "skill", 
+                            "open_adapter": true, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    184.9948, 
+                                    385.1549, 
+                                    49.9986, 
+                                    65.448, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    326.95, 
+                                    363.63
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "9646bb83-9c7a-4704-a2db-7d580f946e78"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 999, 
+                    "name": "skill_drop", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            281.0, 
+                            379.0001, 
+                            156.1111, 
+                            210.5556, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            370.0, 
+                            588.49
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "7e7e6dd8-b0f5-4926-afce-33d913d5c443", 
+                    "visible": false
+                }
+            ], 
+            "event_list": [
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "LordSkill", 
+                    "not_wait_network": false, 
+                    "sound_id": null, 
+                    "type": 1
+                }
+            ], 
+            "name": "LordSkill", 
+            "normal_picture": 107333, 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    90.0, 
+                    89.9996, 
+                    4.6875, 
+                    8.3333, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    180.0, 
+                    180.0
+                ]
+            }, 
+            "type": 1, 
+            "uid": "92feb69e-101b-4a12-95df-3144807923c6", 
+            "visible": false
+        }, 
+        {
+            "children": [], 
+            "disabled_picture": 903497, 
+            "event_list": [], 
+            "name": "close_skill", 
+            "normal_picture": 903498, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    1250.0006, 
+                    209.9995, 
+                    65.1042, 
+                    19.4444, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "press_picture": 903497, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    70.0, 
+                    114.0
+                ]
+            }, 
+            "suspend_picture": 903497, 
+            "type": 1, 
+            "uid": "5e260cbc-88f2-45c0-acd6-2707fcbb7d81", 
+            "visible": false
+        }
+    ], 
+    "name": "SkillPanel", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "1ac7bd5f-e49c-425b-b2e6-c8f87814b809", 
+    "visible": true, 
+    "zorder": 400
+}

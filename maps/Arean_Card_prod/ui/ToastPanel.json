@@ -1,0 +1,195 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 133099, 
+                    "name": "toast_bg", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            50.0, 
+                            50, 
+                            50, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1172.0, 
+                            50.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "98f8a7cd-9bd0-4bed-ac59-ae1762cbac43"
+                }, 
+                {
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            2, 
+                            8
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKWeiBeiW7", 
+                            20
+                        ]
+                    }, 
+                    "name": "toast_txt", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            50.0, 
+                            50, 
+                            50, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            943.5758, 
+                            46.6666
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "ee16ea0f-2832-4414-8e16-8256f1fbf6d0"
+                }
+            ], 
+            "event_list": [], 
+            "name": "toast", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    699.9998, 
+                    50.0, 
+                    64.8148, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "type": 7, 
+            "uid": "d307ef44-64b4-4b19-81da-04d1930f6103", 
+            "visible": false
+        }, 
+        {
+            "children": [
+                {
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 133099, 
+                    "name": "toast_bg", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            50.0, 
+                            50, 
+                            50, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1172.0, 
+                            50.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "972e5b71-ef2f-4ab6-829f-be68aca38d60"
+                }, 
+                {
+                    "alignment": {
+                        "__tuple__": true, 
+                        "items": [
+                            2, 
+                            8
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKWeiBeiW7", 
+                            20
+                        ]
+                    }, 
+                    "name": "toast_txt", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            50.0, 
+                            50.0, 
+                            50, 
+                            50, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            943.5758, 
+                            46.6666
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "8606dc6a-e7ef-4e1b-9ede-ab8697d3852c"
+                }
+            ], 
+            "event_list": [], 
+            "name": "Observe", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    115.9996, 
+                    50.0, 
+                    10.7407, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "type": 7, 
+            "uid": "11ebc60f-bbfc-405d-add2-f2f5cc6581fb", 
+            "visible": false
+        }
+    ], 
+    "name": "ToastPanel", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "1f389c59-89c2-440c-9e69-3c0f05246722", 
+    "visible": true, 
+    "zorder": 400
+}

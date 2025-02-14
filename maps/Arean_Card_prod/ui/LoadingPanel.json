@@ -1,0 +1,693 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "auto_play": false, 
+            "carousel_view": "571fed8f-0af2-407a-bf77-a34390a017b5", 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        0.0, 
+                        0.0, 
+                        0.0, 
+                        0.0
+                    ], 
+                    "block_scrolling": true, 
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            7, 
+                            5, 
+                            148, 
+                            153
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                0.0, 
+                                0.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 133007, 
+                                    "name": "image_20", 
+                                    "open_adapter": true, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            960.0, 
+                                            540.0, 
+                                            50, 
+                                            50, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1920.0, 
+                                            1080.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "9ffc519d-9f4d-45fd-847b-18630bb74b1a"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "name": "page_1", 
+                            "open_adapter": true, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    960.0, 
+                                    540.0, 
+                                    50.0, 
+                                    50.0, 
+                                    0, 
+                                    0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "type": 7, 
+                            "uid": "bb3b0331-40b2-4a07-a668-853226f15a85"
+                        }, 
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                0.0, 
+                                0.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0001, 
+                                        -0.0001, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 133008, 
+                                    "name": "image_21", 
+                                    "open_adapter": true, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            960.0, 
+                                            540.0, 
+                                            50.0, 
+                                            50.0, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1920.0, 
+                                            1080.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "44948669-1d47-4156-8284-2ae5a3b4d71f"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "name": "page_2", 
+                            "open_adapter": true, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    960.0, 
+                                    540.0, 
+                                    50.0, 
+                                    50.0, 
+                                    0, 
+                                    0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "type": 7, 
+                            "uid": "cceeba3e-d347-47c0-8027-a7147c34d1cb"
+                        }, 
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                0.0, 
+                                0.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 133472, 
+                                    "name": "image_21", 
+                                    "open_adapter": true, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            960.0, 
+                                            540.0, 
+                                            50, 
+                                            50, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1920.0, 
+                                            1080.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "910e0a1e-de4a-4b34-bdef-cf4cdaeb6fd9"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "name": "page_3", 
+                            "open_adapter": true, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    960.0, 
+                                    540.0, 
+                                    50.0, 
+                                    50.0, 
+                                    0, 
+                                    0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "type": 7, 
+                            "uid": "0537a1d6-8cdc-43fa-a555-a2cf8caaa4f9"
+                        }, 
+                        {
+                            "adapter_option": [
+                                true, 
+                                true, 
+                                true, 
+                                true, 
+                                0.0, 
+                                0.0, 
+                                0.0, 
+                                0.0
+                            ], 
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "image": 133473, 
+                                    "name": "image_21", 
+                                    "open_adapter": true, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            960.0, 
+                                            540.0, 
+                                            50, 
+                                            50, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            1920.0, 
+                                            1080.0
+                                        ]
+                                    }, 
+                                    "type": 4, 
+                                    "uid": "269cf70f-25de-43a2-af2e-7e2241174507"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "name": "page_4", 
+                            "open_adapter": true, 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    960.0, 
+                                    540.0, 
+                                    50.0, 
+                                    50.0, 
+                                    0, 
+                                    0
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "type": 7, 
+                            "uid": "a7e7d1b7-fd62-47c2-a17e-d4a35fabccd4"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "name": "view", 
+                    "open_adapter": true, 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0, 
+                            50, 
+                            50, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "type": 10, 
+                    "uid": "571fed8f-0af2-407a-bf77-a34390a017b5"
+                }
+            ], 
+            "event_list": [], 
+            "name": "page_view_1", 
+            "open_adapter": true, 
+            "page_can_drag": false, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0, 
+                    50, 
+                    50, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 33, 
+            "uid": "90de8148-ed6d-47b8-9c5e-9b0c312a18fe"
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                true, 
+                true, 
+                true, 
+                722.0, 
+                220.0, 
+                1101.0, 
+                41.0
+            ], 
+            "bg_image": 131115, 
+            "children": [], 
+            "event_list": [], 
+            "image": 131114, 
+            "name": "loading_bar_percent", 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    1490.0006, 
+                    289.0004, 
+                    77.6042, 
+                    26.7593, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    778.0, 
+                    138.0
+                ]
+            }, 
+            "type": 5, 
+            "uid": "d499d639-48d1-43a5-b25c-a33920f95488"
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                false, 
+                true, 
+                false, 
+                996.0, 
+                48.0, 
+                314.0, 
+                1406.0
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "", 
+                    36
+                ]
+            }, 
+            "name": "label_percent", 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    414.0, 
+                    65.9999, 
+                    21.5625, 
+                    6.1111, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    200.0, 
+                    36.0
+                ]
+            }, 
+            "text": {
+                "__tuple__": true, 
+                "items": [
+                    "50%", 
+                    false
+                ]
+            }, 
+            "type": 3, 
+            "uid": "bc56ae59-3271-4729-beb8-28edcc544484", 
+            "visible": false
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                true, 
+                true, 
+                false, 
+                392.0, 
+                488.0, 
+                1117.4242, 
+                53.0001
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "HKWeiBeiW7", 
+                    24
+                ]
+            }, 
+            "font_color": {
+                "__tuple__": true, 
+                "items": [
+                    110, 
+                    115, 
+                    117, 
+                    255
+                ]
+            }, 
+            "name": "text", 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    1492.2125, 
+                    587.9995, 
+                    77.7194, 
+                    54.4444, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    749.5757, 
+                    200.0
+                ]
+            }, 
+            "text": {
+                "__tuple__": true, 
+                "items": [
+                    "With his Crown of Destiny, the master of Caesar Empire is looking down at the lords' fighting for his throne. No one knows whether the impassive king would really resign himself...", 
+                    true
+                ]
+            }, 
+            "type": 3, 
+            "uid": "0509a4fa-ea20-4c31-a7b2-4a55089b8420"
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                true, 
+                true, 
+                false, 
+                392.0, 
+                488.0, 
+                1118.2121, 
+                52.2121
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "HKWeiBeiW7", 
+                    24
+                ]
+            }, 
+            "font_color": {
+                "__tuple__": true, 
+                "items": [
+                    110, 
+                    115, 
+                    117, 
+                    255
+                ]
+            }, 
+            "name": "text_bold", 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    1492.9997, 
+                    587.9995, 
+                    77.7604, 
+                    54.4444, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    749.5757, 
+                    200.0
+                ]
+            }, 
+            "text": {
+                "__tuple__": true, 
+                "items": [
+                    "With his Crown of Destiny, the master of Caesar Empire is looking down at the lords' fighting for his throne. No one knows whether the impassive king would really resign himself...", 
+                    true
+                ]
+            }, 
+            "type": 3, 
+            "uid": "dd9f4908-e838-489a-a24a-c39a2c7dba92"
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                true, 
+                true, 
+                false, 
+                440.0, 
+                440.0, 
+                585.2121, 
+                585.2121
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "HKWeiBeiW7", 
+                    24
+                ]
+            }, 
+            "font_color": {
+                "__tuple__": true, 
+                "items": [
+                    110, 
+                    115, 
+                    117, 
+                    255
+                ]
+            }, 
+            "name": "loading...", 
+            "opacity": 0.0, 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0, 
+                    50, 
+                    50, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    749.5757, 
+                    200.0
+                ]
+            }, 
+            "text": {
+                "__tuple__": true, 
+                "items": [
+                    "The Emperor arranges the magical powers found in the ruins in the arena. Contestants will be affected by magic.", 
+                    false
+                ]
+            }, 
+            "type": 3, 
+            "uid": "9cf66bda-7d5f-42ec-9c0d-d73b1fcbdb2b"
+        }
+    ], 
+    "name": "LoadingPanel", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "aa7ea525-8c73-4585-a6b6-ac706cf0e2f6", 
+    "visible": true, 
+    "zorder": 400
+}

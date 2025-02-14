@@ -1,0 +1,361 @@
+{
+    "describe": -2090939943, 
+    "editor_res": false, 
+    "key": 203496, 
+    "map_name": "luoling", 
+    "model_id": 521001, 
+    "name": 364108564, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Magical", 
+            "code_Middle ages", 
+            "code_furniture", 
+            "code_Grey", 
+            "code_tag_model_Stone", 
+            "code_table", 
+            "P9(\u897f\u65b9\u4e2d\u4e16\u7eaa\u7cfb\u5217)"
+        ]
+    }, 
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            0.5, 
+            2
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/203496", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "res_identify": "all", 
+    "res_type": "code_model_Scene,code_Building,code_Building part", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {
+        "attack1": {
+            "__tuple__": true, 
+            "items": [
+                "attack1", 
+                "biped_beizi01", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "buff": {
+            "__tuple__": true, 
+            "items": [
+                "buff", 
+                "", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "card1": {
+            "__tuple__": true, 
+            "items": [
+                "card1", 
+                "biped_kapai01", 
+                0.0, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "card2": {
+            "__tuple__": true, 
+            "items": [
+                "card2", 
+                "biped_kapai02", 
+                0.0, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "card3": {
+            "__tuple__": true, 
+            "items": [
+                "card3", 
+                "biped_kapai03", 
+                0.0, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "card4": {
+            "__tuple__": true, 
+            "items": [
+                "card4", 
+                "biped_kapai04", 
+                0.0, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "card5": {
+            "__tuple__": true, 
+            "items": [
+                "card5", 
+                "biped_kapai05", 
+                0.0, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "card6": {
+            "__tuple__": true, 
+            "items": [
+                "card6", 
+                "biped_kapai06", 
+                0.0, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "card7": {
+            "__tuple__": true, 
+            "items": [
+                "card7", 
+                "biped_kapai07", 
+                0.0, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "card8": {
+            "__tuple__": true, 
+            "items": [
+                "card8", 
+                "biped_kapai08", 
+                0.0, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "coin1": {
+            "__tuple__": true, 
+            "items": [
+                "coin1", 
+                "biped_xiaojinbi01", 
+                0.0, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "coin2": {
+            "__tuple__": true, 
+            "items": [
+                "coin2", 
+                "biped_xiaojinbi02", 
+                0.0, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "coin3": {
+            "__tuple__": true, 
+            "items": [
+                "coin3", 
+                "biped_xiaojinbi03", 
+                0.0, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "coin4": {
+            "__tuple__": true, 
+            "items": [
+                "coin4", 
+                "biped_xiaojinbi04", 
+                0.0, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "coin5": {
+            "__tuple__": true, 
+            "items": [
+                "coin5", 
+                "biped_xiaojinbi05", 
+                0.0, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "coin6": {
+            "__tuple__": true, 
+            "items": [
+                "coin6", 
+                "biped_xiaojinbi06", 
+                0.0, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "coin7": {
+            "__tuple__": true, 
+            "items": [
+                "coin7", 
+                "biped_xiaojinbi07", 
+                0.0, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "coin8": {
+            "__tuple__": true, 
+            "items": [
+                "coin8", 
+                "biped_xiaojinbi08", 
+                0.0, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "coin_sum": {
+            "__tuple__": true, 
+            "items": [
+                "coin_sum", 
+                "root", 
+                0.0, 
+                1.0, 
+                0.0
+            ]
+        }, 
+        "cup1": {
+            "__tuple__": true, 
+            "items": [
+                "cup1", 
+                "biped_beizi01", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "cup2": {
+            "__tuple__": true, 
+            "items": [
+                "cup2", 
+                "biped_beizi02", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "cup3": {
+            "__tuple__": true, 
+            "items": [
+                "cup3", 
+                "biped_beizi03", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "cup4": {
+            "__tuple__": true, 
+            "items": [
+                "cup4", 
+                "biped_beizi04", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "cup5": {
+            "__tuple__": true, 
+            "items": [
+                "cup5", 
+                "biped_beizi05", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "cup6": {
+            "__tuple__": true, 
+            "items": [
+                "cup6", 
+                "biped_beizi06", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "cup7": {
+            "__tuple__": true, 
+            "items": [
+                "cup7", 
+                "biped_beizi07", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "cup8": {
+            "__tuple__": true, 
+            "items": [
+                "cup8", 
+                "biped_beizi08", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "origin": {
+            "__tuple__": true, 
+            "items": [
+                "origin", 
+                "root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "top": {
+            "__tuple__": true, 
+            "items": [
+                "top", 
+                "", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "ui_hp": {
+            "__tuple__": true, 
+            "items": [
+                "ui_hp", 
+                "", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_203496"
+}

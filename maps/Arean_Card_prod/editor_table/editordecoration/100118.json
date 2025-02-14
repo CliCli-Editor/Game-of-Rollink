@@ -1,0 +1,102 @@
+{
+    "attach_models": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "cast_shadow": false, 
+    "collision_box": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -15, 
+                -6
+            ], 
+            [
+                15, 
+                -6
+            ], 
+            [
+                15, 
+                6
+            ], 
+            [
+                -15, 
+                6
+            ]
+        ]
+    }, 
+    "collision_height": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "collision_points": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -4, 
+                -2
+            ], 
+            [
+                3, 
+                1
+            ], 
+            0
+        ]
+    }, 
+    "description": 1314391170, 
+    "effect_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "fresnel_color": [
+        255, 
+        0, 
+        0, 
+        1
+    ], 
+    "fresnel_emissive_color_strength": 0, 
+    "fresnel_exp": 1, 
+    "icon": 100000, 
+    "key": 100118, 
+    "kv": {}, 
+    "material_alpha": 0, 
+    "material_change": 0, 
+    "material_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "material_color_intensity": 0, 
+    "model": 100191, 
+    "model_opacity": 1, 
+    "name": 616291617, 
+    "random_max_scale": 1.2, 
+    "random_min_scale": 0.8, 
+    "receive_decal": false, 
+    "scale": 1, 
+    "sfx_key": 0, 
+    "sfx_offset": {
+        "__tuple__": true, 
+        "items": [
+            0, 
+            0, 
+            0
+        ]
+    }, 
+    "sfx_scale": 1, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "theme": 2, 
+    "type": 8, 
+    "ui_scale": 1, 
+    "uid": "exordinary_auto_chess_8", 
+    "use_fresnel": false, 
+    "use_physics": false, 
+    "visible": true
+}

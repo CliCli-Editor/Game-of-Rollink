@@ -1,0 +1,40 @@
+{
+    "describe": 853543876, 
+    "editor_res": false, 
+    "key": 104475, 
+    "map_name": "H69\u8bf8\u795e\u9ec4\u660f3", 
+    "model_id": 280458, 
+    "name": -2100142136, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Magical", 
+            "code_Desert civilization", 
+            "code_Prop", 
+            "code_Yellow", 
+            "code_Wooden", 
+            "code_Archery target", 
+            "P1(\u897f\u65b9\u795e\u8bdd\u7cfb\u5217)"
+        ]
+    }, 
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            0.5, 
+            2
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/104475", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "res_identify": "all", 
+    "res_type": "code_model_Scene,code_Prop", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_104475"
+}

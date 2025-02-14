@@ -1,0 +1,183 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "bg_color": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0, 
+                    255
+                ]
+            }, 
+            "bg_image": 108645, 
+            "children": [], 
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0, 
+                    255
+                ]
+            }, 
+            "event_list": [], 
+            "image": 108645, 
+            "name": "progress_1", 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0, 
+                    50, 
+                    50, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "swallow_touches": true, 
+            "type": 5, 
+            "uid": "3d0037ee-213e-4b1c-b81f-d0346594d046"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "image": 999, 
+            "name": "image_40", 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0, 
+                    50, 
+                    50, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "swallow_touches": true, 
+            "type": 4, 
+            "uid": "9748b572-cfe0-4ae2-960d-98d87c8ce057"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                430.0, 
+                530.0, 
+                951.0, 
+                849.0
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "fx_id": {
+                "__tuple__": true, 
+                "items": [
+                    "out", 
+                    7
+                ]
+            }, 
+            "name": "BattleEnd_Bg", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    1011.001, 
+                    589.9997, 
+                    52.6563, 
+                    54.6296, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scale": {
+                "__tuple__": true, 
+                "items": [
+                    1.2, 
+                    1.2
+                ]
+            }, 
+            "scene_ui_name": null, 
+            "type": 28, 
+            "uid": "64eca17f-c41a-4c12-bc4f-52fe716d30dd"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "fx_id": {
+                "__tuple__": true, 
+                "items": [
+                    "out", 
+                    6
+                ]
+            }, 
+            "name": "BattleEnd", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    1011.001, 
+                    589.9997, 
+                    52.6563, 
+                    54.6296, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "type": 28, 
+            "uid": "cc4116ad-e6ae-4eff-bbe1-791d01976ddd"
+        }
+    ], 
+    "name": "BattleEnd", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "8ceaa740-3566-47b1-88fa-84cbb67e76ec", 
+    "visible": false, 
+    "zorder": 401
+}

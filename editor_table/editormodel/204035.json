@@ -1,0 +1,128 @@
+{
+    "describe": 1879484091, 
+    "editor_res": false, 
+    "key": 204035, 
+    "map_name": "xiugai", 
+    "model_id": 522017, 
+    "name": -1772593629, 
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            5.0, 
+            6.0
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/204035", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "res_identify": "all", 
+    "res_type": "code_Role,code_Boss", 
+    "select_effect_scale": 0.01, 
+    "size": 1.0, 
+    "socket_info": {
+        "foot1": {
+            "__tuple__": true, 
+            "items": [
+                "foot1", 
+                "Bip001-L-Foot", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "foot2": {
+            "__tuple__": true, 
+            "items": [
+                "foot2", 
+                "Bip001-R-Foot", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand1": {
+            "__tuple__": true, 
+            "items": [
+                "hand1", 
+                "Bip001-L-Hand", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand2": {
+            "__tuple__": true, 
+            "items": [
+                "hand2", 
+                "Bip001-R-Hand", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "head": {
+            "__tuple__": true, 
+            "items": [
+                "head", 
+                "Bip001-Head", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "Bip001-Pelvis", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "mouth": {
+            "__tuple__": true, 
+            "items": [
+                "mouth", 
+                "mouth", 
+                0.5932401494850512, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "mouth1": {
+            "__tuple__": true, 
+            "items": [
+                "mouth1", 
+                "mouth", 
+                0.8, 
+                0.0, 
+                0.3
+            ]
+        }, 
+        "root": {
+            "__tuple__": true, 
+            "items": [
+                "root", 
+                "Scene Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "Bip001-Head", 
+                0.2, 
+                0.1, 
+                0.0
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_204035"
+}

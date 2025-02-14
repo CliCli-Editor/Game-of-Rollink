@@ -1,0 +1,6 @@
+{
+    "debug.folder": 3, 
+    "房间相关.folder": 1, 
+    "游戏相关.folder": 2, 
+    "组队相关.folder": 0
+}

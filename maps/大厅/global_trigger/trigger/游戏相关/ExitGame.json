@@ -1,0 +1,46 @@
+{
+    "action": [
+        {
+            "action_type": "EXIT_GAME", 
+            "args_list": [
+                {
+                    "arg_type": 100025, 
+                    "args_list": [], 
+                    "sub_type": "TRIGGER_PLAYER"
+                }
+            ], 
+            "bp": false, 
+            "element_id": 128978982000010, 
+            "enable": true
+        }
+    ], 
+    "call_enabled": true, 
+    "condition": [], 
+    "enabled": true, 
+    "event": [
+        {
+            "args_list": [
+                {
+                    "arg_type": 100067, 
+                    "args_list": [
+                        "ExitGame"
+                    ], 
+                    "sub_type": 1
+                }
+            ], 
+            "element_id": 128978982000002, 
+            "enable": true, 
+            "event_type": "TRIGGER_COMPONENT_EVENT"
+        }
+    ], 
+    "group_id": "WbDopenlEe+z7Z3IhuR48O", 
+    "p_trigger_id": null, 
+    "trigger_id": 128978982, 
+    "trigger_name": "ExitGame", 
+    "valid": true, 
+    "var_data": [
+        {}, 
+        {}, 
+        []
+    ]
+}

@@ -1,0 +1,384 @@
+{
+    "describe": -392553338, 
+    "editor_res": false, 
+    "key": 201640, 
+    "map_name": "x1hero", 
+    "model_id": 504115, 
+    "name": -1981630885, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Hero", 
+            "code_Chinese style", 
+            "code_Male", 
+            "code_Adult", 
+            "code_Strong", 
+            "code_Warrior", 
+            "code_Sword", 
+            "code_Red"
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/201640", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "socket_info": {
+        "A": {
+            "__tuple__": true, 
+            "items": [
+                "A", 
+                "b_Rweapon", 
+                2.908969, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "B": {
+            "__tuple__": true, 
+            "items": [
+                "B", 
+                "b_Rweapon", 
+                1.504764, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "Base": {
+            "__tuple__": true, 
+            "items": [
+                "Base", 
+                "b_Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "Body": {
+            "__tuple__": true, 
+            "items": [
+                "Body", 
+                "b_Spine", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "C": {
+            "__tuple__": true, 
+            "items": [
+                "C", 
+                "b_Rweapon", 
+                0.317406, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "HeadM": {
+            "__tuple__": true, 
+            "items": [
+                "HeadM", 
+                "b_Head", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "LEFT_SHOULDER": {
+            "__tuple__": true, 
+            "items": [
+                "LEFT_SHOULDER", 
+                "b_Spine2", 
+                0.279607, 
+                0.136735, 
+                0.019945
+            ]
+        }, 
+        "Left_Wing": {
+            "__tuple__": true, 
+            "items": [
+                "Left_Wing", 
+                "b_Spine2", 
+                0.169869, 
+                0.094825, 
+                0.160275
+            ]
+        }, 
+        "RIGHT_SHOULDER": {
+            "__tuple__": true, 
+            "items": [
+                "RIGHT_SHOULDER", 
+                "b_Spine2", 
+                0.280126, 
+                -0.136255, 
+                0.02675
+            ]
+        }, 
+        "Right_Wing": {
+            "__tuple__": true, 
+            "items": [
+                "Right_Wing", 
+                "b_Spine2", 
+                0.16668, 
+                -0.11, 
+                0.165125
+            ]
+        }, 
+        "Trail_mid": {
+            "__tuple__": true, 
+            "items": [
+                "Trail_mid", 
+                "b_Rweapon", 
+                1.242371, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "back": {
+            "__tuple__": true, 
+            "items": [
+                "back", 
+                "b_Spine2", 
+                0.212347, 
+                0.006206, 
+                0.420302
+            ]
+        }, 
+        "chest": {
+            "__tuple__": true, 
+            "items": [
+                "chest", 
+                "b_Spine2", 
+                -0.030274, 
+                0.0, 
+                -0.112928
+            ]
+        }, 
+        "foot1": {
+            "__tuple__": true, 
+            "items": [
+                "foot1", 
+                "b_LeftToe", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "foot2": {
+            "__tuple__": true, 
+            "items": [
+                "foot2", 
+                "b_RightToe", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand1": {
+            "__tuple__": true, 
+            "items": [
+                "hand1", 
+                "b_LeftHand", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand2": {
+            "__tuple__": true, 
+            "items": [
+                "hand2", 
+                "b_RightHand", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "head": {
+            "__tuple__": true, 
+            "items": [
+                "head", 
+                "b_Root", 
+                0.0, 
+                2.5, 
+                0.0
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "b_Pelvis", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "left_hand": {
+            "__tuple__": true, 
+            "items": [
+                "left_hand", 
+                "b_LeftForeArm", 
+                0.05, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "left_hand_effect": {
+            "__tuple__": true, 
+            "items": [
+                "left_hand_effect", 
+                "b_LeftHand", 
+                0.091121, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "left_weapon": {
+            "__tuple__": true, 
+            "items": [
+                "left_weapon", 
+                "b_Lweapon", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "missile": {
+            "__tuple__": true, 
+            "items": [
+                "missile", 
+                "b_Rweapon", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "right_hand": {
+            "__tuple__": true, 
+            "items": [
+                "right_hand", 
+                "b_RightForeArm", 
+                0.05, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "right_hand_effect": {
+            "__tuple__": true, 
+            "items": [
+                "right_hand_effect", 
+                "b_RightHand", 
+                0.080927, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "right_weapon": {
+            "__tuple__": true, 
+            "items": [
+                "right_weapon", 
+                "b_Rweapon", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "root": {
+            "__tuple__": true, 
+            "items": [
+                "root", 
+                "b_Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "shine1": {
+            "__tuple__": true, 
+            "items": [
+                "shine1", 
+                "b_RightClav_annex01", 
+                -0.047666, 
+                -0.014857, 
+                0.303385
+            ]
+        }, 
+        "shine2": {
+            "__tuple__": true, 
+            "items": [
+                "shine2", 
+                "b_LeftClav_annex01", 
+                0.148785, 
+                0.351131, 
+                0.139365
+            ]
+        }, 
+        "shine3": {
+            "__tuple__": true, 
+            "items": [
+                "shine3", 
+                "b_LeftForeArm", 
+                0.13114, 
+                0.350451, 
+                0.0
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "b_Head", 
+                0.2, 
+                0.1, 
+                0.0
+            ]
+        }, 
+        "tail": {
+            "__tuple__": true, 
+            "items": [
+                "tail", 
+                "b_Pelvis", 
+                -0.125075, 
+                0.0125, 
+                0.0
+            ]
+        }, 
+        "trail_end": {
+            "__tuple__": true, 
+            "items": [
+                "trail_end", 
+                "b_Rweapon", 
+                0.32, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "trail_start": {
+            "__tuple__": true, 
+            "items": [
+                "trail_start", 
+                "b_Rweapon", 
+                1.994545, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "unit_info": {
+            "__tuple__": true, 
+            "items": [
+                "unit_info", 
+                "b_Root", 
+                -0.19209, 
+                2.1225, 
+                -0.008059
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_201640"
+}

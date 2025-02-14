@@ -1,0 +1,164 @@
+{
+    "2": {
+        "__tuple__": true, 
+        "items": [
+            -7, 
+            -4280, 
+            0
+        ]
+    }, 
+    "7": {
+        "__tuple__": true, 
+        "items": [
+            5.0, 
+            5.0, 
+            2.5
+        ]
+    }, 
+    "100": 25.0, 
+    "102": 0, 
+    "103": 35.0, 
+    "104": 500, 
+    "107": 0, 
+    "108": 0, 
+    "body_size": 1.0, 
+    "collision_box": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -16, 
+                16
+            ], 
+            [
+                -16, 
+                -16
+            ], 
+            [
+                16, 
+                -16
+            ], 
+            [
+                16, 
+                16
+            ]
+        ]
+    }, 
+    "collision_box_after_dead": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -16, 
+                16
+            ], 
+            [
+                -16, 
+                -16
+            ], 
+            [
+                16, 
+                -16
+            ], 
+            [
+                16, 
+                16
+            ]
+        ]
+    }, 
+    "collision_height": "", 
+    "collision_height_after_dead": "", 
+    "collision_points_alive": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -2, 
+                -2
+            ], 
+            [
+                2, 
+                2
+            ], 
+            0
+        ]
+    }, 
+    "collision_points_dead": {
+        "__tuple__": true, 
+        "items": [
+            [
+                -2, 
+                -2
+            ], 
+            [
+                2, 
+                2
+            ], 
+            0
+        ]
+    }, 
+    "default_rate": 0.0, 
+    "description": -21926096, 
+    "destroy_delay": 5, 
+    "destroy_on_die": true, 
+    "die_effect_list": [], 
+    "die_on_source_run_out": false, 
+    "effect_list": [], 
+    "fresnel_color": [
+        255, 
+        0, 
+        0, 
+        1
+    ], 
+    "fresnel_emissive_color_strength": 0, 
+    "fresnel_exp": 1, 
+    "hp_max": 500, 
+    "icon": 100000, 
+    "is_ability_target": true, 
+    "is_attacked": true, 
+    "is_collected": true, 
+    "is_selected": true, 
+    "key": 201359127, 
+    "kv": {}, 
+    "material_alpha": 0, 
+    "material_change": 0, 
+    "material_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "material_color_intensity": 0, 
+    "mini_map_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255
+        ]
+    }, 
+    "model": 134260234, 
+    "model_opacity": 1, 
+    "name": 1122264013, 
+    "passable": true, 
+    "receive_decal": true, 
+    "show_on_mini_map": true, 
+    "sound_event_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "source_desc": 59269999, 
+    "source_item": 0, 
+    "source_nums_init": 0, 
+    "source_nums_max": 10000, 
+    "source_player_prop": "official_res_1", 
+    "source_refresh_count": 0, 
+    "source_refresh_interval": 1.0, 
+    "source_type": 0, 
+    "suffix": "", 
+    "tags": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "uid": "201359127", 
+    "use_fresnel": false
+}

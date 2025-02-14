@@ -1,0 +1,16 @@
+{
+    "game_modes": {
+        "1001": {
+            "desc": "Lord"
+        }, 
+        "1002": {
+            "desc": "Junior"
+        }, 
+        "1003": {
+            "desc": "Senior"
+        }, 
+        "1004": {
+            "desc": "\u65b0\u624b\u5f15\u5bfc"
+        }
+    }
+}

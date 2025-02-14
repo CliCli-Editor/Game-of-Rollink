@@ -1,0 +1,2024 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "image": 133208, 
+            "name": "Card", 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0, 
+                    50, 
+                    50, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "swallow_touches": true, 
+            "type": 4, 
+            "uid": "0a2e4fae-10f0-4c21-838b-ee8ce74301a4", 
+            "visible": false
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "image": 133209, 
+            "name": "Unit", 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0, 
+                    50, 
+                    50, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "swallow_touches": true, 
+            "type": 4, 
+            "uid": "e68b44fb-967b-418c-b404-30a99e34b364", 
+            "visible": false
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "cap_insets": {
+                "__tuple__": true, 
+                "items": [
+                    1305, 
+                    0, 
+                    -15, 
+                    126
+                ]
+            }, 
+            "children": [
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            1305, 
+                            0, 
+                            -15, 
+                            126
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_1", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2880.0, 
+                                    540.0, 
+                                    150.0, 
+                                    50.0, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "71c2b240-2dff-4709-9596-929766e1aff5"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_2", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -682.5005, 
+                                    540.0, 
+                                    -35.5469, 
+                                    50.0, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1364.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "d65eed4a-e0be-4c68-a2bf-b461b26aa6cd"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134219634, 
+                    "name": "masklayer_1", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0, 
+                            50, 
+                            50, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "swallow_touches": true, 
+                    "type": 4, 
+                    "uid": "bbbd6b8f-700b-4983-acfa-141543094d8f", 
+                    "visible": false
+                }, 
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134260018, 
+                            "name": "masklayer_1", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -960.0, 
+                                    540.0, 
+                                    -50.0, 
+                                    50.0, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "ef1d1ce1-b150-4176-a753-014a3fe36e8c"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134260018, 
+                            "name": "masklayer_2", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2880.0, 
+                                    540.0, 
+                                    150.0, 
+                                    50.0, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "c4908b01-e574-44b8-a664-4a1f7d431a5b"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134260018, 
+                    "is_scale9_enable": true, 
+                    "name": "masklayer_2", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0, 
+                            50, 
+                            50, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "swallow_touches": true, 
+                    "type": 4, 
+                    "uid": "da696656-bf59-42a6-8e5a-c9def3e6e609", 
+                    "visible": false
+                }, 
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            1305, 
+                            0, 
+                            -15, 
+                            126
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_1", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2880.0, 
+                                    540.0, 
+                                    150.0, 
+                                    50.0, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "bcf28a55-882c-41b3-9037-72e73add44ad"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_2", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -681.9994, 
+                                    540.0, 
+                                    -35.5208, 
+                                    50.0, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1364.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "b1b4b76f-9054-43e9-81ea-a7219819cfea"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134246584, 
+                    "name": "masklayer_3", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0, 
+                            50, 
+                            50, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "swallow_touches": true, 
+                    "type": 4, 
+                    "uid": "1b5f876f-651e-4bf1-a424-07d03200dee7", 
+                    "visible": false
+                }, 
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_1", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2915.0004, 
+                                    598.0004, 
+                                    149.134, 
+                                    51.722, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "73ad8d02-800b-4827-9f65-7a1d2c97f466"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_2", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -681.9995, 
+                                    598.0004, 
+                                    -34.8917, 
+                                    51.722, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1364.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "00be891b-2ea3-42d7-ab12-b3462057d894"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134251127, 
+                    "is_scale9_enable": true, 
+                    "name": "masklayer_4", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            942.3091, 
+                            501.9095, 
+                            49.0786, 
+                            46.4731, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1954.6183, 
+                            1156.1818
+                        ]
+                    }, 
+                    "swallow_touches": true, 
+                    "type": 4, 
+                    "uid": "a5447072-1de1-4e13-a18c-99a01e6302c2", 
+                    "visible": false
+                }, 
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_1", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -959.9996, 
+                                    698.5151, 
+                                    -47.7137, 
+                                    58.96, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1283.0303
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "e6779a9b-4c1f-460c-badc-ff44a84d1634"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_2", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2693.9996, 
+                                    695.3933, 
+                                    133.8966, 
+                                    58.6965, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1364.0, 
+                                    1258.7878
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "186a2b29-477b-4201-8423-68ec06cb4c17"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134238803, 
+                    "is_scale9_enable": true, 
+                    "name": "masklayer_5", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            968.999, 
+                            492.939, 
+                            50.4687, 
+                            45.6425, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            2012.0, 
+                            1184.7271
+                        ]
+                    }, 
+                    "swallow_touches": true, 
+                    "type": 4, 
+                    "uid": "3f3daa50-351c-4b98-91dc-73c9f3f608fb", 
+                    "visible": false
+                }, 
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_1", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    3143.999, 
+                                    582.9998, 
+                                    143.956, 
+                                    50.0429, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "c51181e7-2c57-4db8-a9b3-cd3307e6f115"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_2", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -681.9999, 
+                                    582.9998, 
+                                    -31.2271, 
+                                    50.0429, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1364.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "6704c6f5-5847-463b-8d35-621684f48d03"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134276911, 
+                    "is_scale9_enable": true, 
+                    "name": "masklayer_6", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            938.0006, 
+                            543.5003, 
+                            48.8542, 
+                            50.3241, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            2184.0, 
+                            1165.0
+                        ]
+                    }, 
+                    "swallow_touches": true, 
+                    "type": 4, 
+                    "uid": "4cd0e114-aa45-4ebd-bb0d-5e5cf9cabb39", 
+                    "visible": false
+                }, 
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_1", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2999.9995, 
+                                    604.9996, 
+                                    147.0588, 
+                                    51.1844, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "bba71549-eb3e-4505-bebf-8fe3b1354db4"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_2", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -682.0006, 
+                                    604.9996, 
+                                    -33.4314, 
+                                    51.1844, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1364.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "271786f2-c389-4da5-a4c9-961c6b87344b"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134276123, 
+                    "is_scale9_enable": true, 
+                    "name": "masklayer_7", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            938.999, 
+                            520.9996, 
+                            48.9062, 
+                            48.2407, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            2040.0, 
+                            1182.0
+                        ]
+                    }, 
+                    "swallow_touches": true, 
+                    "type": 4, 
+                    "uid": "efb37f81-7e88-459d-a428-092135531b39", 
+                    "visible": false
+                }, 
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            1305, 
+                            495, 
+                            615, 
+                            585
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_1", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    3373.9995, 
+                                    624.0, 
+                                    139.768, 
+                                    52.7027, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "a7d908d8-a797-4fe1-bfb0-f5ea9594fbe2"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_2", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -682.0009, 
+                                    624.0, 
+                                    -28.2519, 
+                                    52.7027, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1364.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "ca79c615-1ce8-4767-b07d-82d1304a8f1c"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134259865, 
+                    "name": "masklayer_8", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            909.9994, 
+                            507.9996, 
+                            47.3958, 
+                            47.037, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            2414.0, 
+                            1184.0
+                        ]
+                    }, 
+                    "swallow_touches": true, 
+                    "type": 4, 
+                    "uid": "1c007535-985e-4e6a-b6f1-28d363d0fc8f", 
+                    "visible": false
+                }, 
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            1305, 
+                            0, 
+                            -15, 
+                            126
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_1", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2911.9995, 
+                                    638.0005, 
+                                    146.6756, 
+                                    52.9461, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "152b5f68-3f36-4312-a204-c2d424451847"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_2", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -681.9997, 
+                                    638.0005, 
+                                    -34.3519, 
+                                    52.9461, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1364.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "84cac57b-ff49-4cfc-832c-326f1e80f33e"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134243398, 
+                    "name": "masklayer_9", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.6662, 
+                            504.5004, 
+                            50.0347, 
+                            46.713, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1985.3333, 
+                            1205.0
+                        ]
+                    }, 
+                    "swallow_touches": true, 
+                    "type": 4, 
+                    "uid": "bb968529-ee5c-4ce5-a7da-5d7652889ef4", 
+                    "visible": false
+                }, 
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            1920, 
+                            1080
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_1", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    3047.0005, 
+                                    605.9995, 
+                                    146.2007, 
+                                    50.0037, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1276.9696
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "a1ea279b-d2ad-4fb1-8155-62556fc68ec9"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_2", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -681.9996, 
+                                    621.0005, 
+                                    -32.7236, 
+                                    51.2415, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1364.0, 
+                                    1386.0605
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "b6d6bdb1-4fb5-4dd0-acd3-d5471694900e"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134242830, 
+                    "name": "masklayer_10", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            949.9853, 
+                            507.2728, 
+                            49.4784, 
+                            46.9697, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            2084.1217, 
+                            1211.9092
+                        ]
+                    }, 
+                    "swallow_touches": true, 
+                    "type": 4, 
+                    "uid": "b8504427-828f-4c27-94ff-d5e81ed1ea88", 
+                    "visible": false
+                }, 
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            1305, 
+                            0, 
+                            480, 
+                            750
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_1", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    3962.9989, 
+                                    704.0003, 
+                                    131.9813, 
+                                    48.3849, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1408.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "8817d86b-a3f8-4dce-a44d-fc4a5a93ba6e"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_2", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -681.9996, 
+                                    655.9998, 
+                                    -22.7129, 
+                                    45.0859, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1364.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "dce7ebba-3425-44ed-a363-29471408a129"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134255085, 
+                    "name": "masklayer_11", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            1312.848, 
+                            612.0004, 
+                            68.3775, 
+                            56.6667, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            3002.6973, 
+                            1455.0
+                        ]
+                    }, 
+                    "swallow_touches": true, 
+                    "type": 4, 
+                    "uid": "9d7e9c72-6591-4939-a93a-cd03f0a53262", 
+                    "visible": false
+                }, 
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            1305, 
+                            0, 
+                            -15, 
+                            126
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_1", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2880.0, 
+                                    540.0, 
+                                    150.0, 
+                                    50.0, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "8a9ae64b-20bd-4355-b1e5-b05f581d407c"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_2", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -681.9994, 
+                                    540.0, 
+                                    -35.5208, 
+                                    50.0, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1364.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "dde1c8e3-8a81-488f-810d-77e340d1acc1"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134243885, 
+                    "name": "masklayer_12", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0, 
+                            50, 
+                            50, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "swallow_touches": true, 
+                    "type": 4, 
+                    "uid": "44ae3a88-6eed-4944-94c0-d1cd89b5006f", 
+                    "visible": false
+                }, 
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            1305, 
+                            0, 
+                            -15, 
+                            126
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_1", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2938.0005, 
+                                    612.0, 
+                                    148.5339, 
+                                    53.125, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "c99aaa35-8040-4a27-ac0c-d430b4b79bfa"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_2", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -682.0006, 
+                                    612.0, 
+                                    -34.4793, 
+                                    53.125, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1364.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "fdb3343e-21c5-4702-b6be-710dcda1a99b"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134279290, 
+                    "name": "masklayer_13", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            504.0004, 
+                            50.0, 
+                            46.6667, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1978.0, 
+                            1152.0
+                        ]
+                    }, 
+                    "swallow_touches": true, 
+                    "type": 4, 
+                    "uid": "2dfd19c7-7645-48e8-9b1e-92b83dc94b0a", 
+                    "visible": false
+                }, 
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            1305, 
+                            0, 
+                            -15, 
+                            126
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_1", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -959.9994, 
+                                    618.0003, 
+                                    -45.8015, 
+                                    53.3679, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "eb42caf3-91b9-4014-ba03-1c177a9df42d"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_2", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    2778.0007, 
+                                    618.0003, 
+                                    132.5382, 
+                                    53.3679, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1364.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "21e96ae1-9e63-4e1e-bdd3-625e0dd0140f"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134277643, 
+                    "name": "masklayer_14", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            933.9994, 
+                            501.0001, 
+                            48.6458, 
+                            46.3889, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            2096.0, 
+                            1158.0
+                        ]
+                    }, 
+                    "swallow_touches": true, 
+                    "type": 4, 
+                    "uid": "9a37cc05-1625-43ea-844c-6b6c0c145760", 
+                    "visible": false
+                }, 
+                {
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            1920.0, 
+                            1080.0
+                        ]
+                    }, 
+                    "children": [
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_1", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    3032.0008, 
+                                    655.0002, 
+                                    136.5539, 
+                                    54.8034, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1920.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "9743b1d5-ad1c-4c66-87be-b86eee4efa8f"
+                        }, 
+                        {
+                            "cap_insets": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1305, 
+                                    0, 
+                                    -15, 
+                                    126
+                                ]
+                            }, 
+                            "children": [], 
+                            "event_list": [], 
+                            "image": 134219634, 
+                            "name": "masklayer_2", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    -681.9997, 
+                                    653.9999, 
+                                    -30.7156, 
+                                    54.7197, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    1364.0, 
+                                    1080.0
+                                ]
+                            }, 
+                            "swallow_touches": true, 
+                            "type": 4, 
+                            "uid": "6afcb44e-7a8e-40f5-a932-88daa71c1b8b"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 134282034, 
+                    "is_scale9_enable": true, 
+                    "name": "masklayer_15", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            972.8179, 
+                            482.4997, 
+                            50.6676, 
+                            44.6759, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            2220.3693, 
+                            1195.1818
+                        ]
+                    }, 
+                    "swallow_touches": true, 
+                    "type": 4, 
+                    "uid": "07223b40-abcc-434d-a039-9d45ecdc20d5", 
+                    "visible": false
+                }
+            ], 
+            "event_list": [], 
+            "image": 134282750, 
+            "name": "masklayer", 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0, 
+                    50, 
+                    50, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "707b3376-1576-43a0-bd79-b5fa43dd621c"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                320.0, 
+                340.0, 
+                20.0, 
+                940.0
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "MSYH", 
+                    50
+                ]
+            }, 
+            "name": "txt", 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    500.0006, 
+                    549.9997, 
+                    26.0417, 
+                    50.9259, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    420.0
+                ]
+            }, 
+            "text": {
+                "__tuple__": true, 
+                "items": [
+                    "", 
+                    false
+                ]
+            }, 
+            "type": 3, 
+            "typewriter_space": 0.01, 
+            "uid": "5acd396c-a72f-4c50-965a-37cb274f570f"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [], 
+            "event_list": [], 
+            "name": "interception_layer", 
+            "opacity": 0.0, 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0, 
+                    50, 
+                    50, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "f7378522-9809-42b6-9fb5-fdd292b2210a"
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "font": {
+                "__tuple__": true, 
+                "items": [
+                    "MSYH", 
+                    50
+                ]
+            }, 
+            "name": "BattleTips", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    290.4998, 
+                    618.9998, 
+                    15.1302, 
+                    57.3148, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    468.0, 
+                    357.0
+                ]
+            }, 
+            "text": {
+                "__tuple__": true, 
+                "items": [
+                    "", 
+                    false
+                ]
+            }, 
+            "type": 3, 
+            "uid": "5faa9d2b-3185-4b9c-a99b-4b0bc84dd49a", 
+            "visible": false
+        }
+    ], 
+    "name": "GuidePanel", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "3c52d621-d795-4670-987a-6e15cf6f547f", 
+    "visible": true, 
+    "zorder": 450
+}

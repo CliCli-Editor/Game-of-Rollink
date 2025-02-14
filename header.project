@@ -1,0 +1,21 @@
+{
+    "create_stamp": "202306120000", 
+    "editor_stamp": "202306120000", 
+    "encrypt_sections": [
+        "archive_data", 
+        "global_archive_data", 
+        "archive_table_data"
+    ], 
+    "entry_map": {
+        "id": 214446407184432741615134807172380210722, 
+        "name": "Arean_Card_prod"
+    }, 
+    "phy_mode": "2.5d", 
+    "project_id": 136780985120575335599760560512710057964, 
+    "project_name": "Project_Arean_Card_prod", 
+    "steam_lobby_map": {
+        "id": 139719813813110922255483509256266162365, 
+        "name": "\u5927\u5385"
+    }, 
+    "version": 14
+}

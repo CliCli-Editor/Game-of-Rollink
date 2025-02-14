@@ -1,0 +1,86 @@
+{
+    "column_width": {
+        "0": 168
+    }, 
+    "table_data": {
+        "data": [
+            [
+                "Key", 
+                "Type", 
+                "Value", 
+                "Des"
+            ], 
+            [
+                "camera_time", 
+                "float", 
+                "5", 
+                "\u955c\u5934\u65f6\u95f4"
+            ], 
+            [
+                "wait_time", 
+                "float", 
+                "1", 
+                "\u521d\u59cb\u7b49\u5f85\u65f6\u95f4"
+            ], 
+            [
+                "show_time", 
+                "float", 
+                "1", 
+                "\u63ed\u793a\u65f6\u95f4"
+            ], 
+            [
+                "display_time", 
+                "float", 
+                "1", 
+                "\u5c55\u793a\u65f6\u95f4"
+            ], 
+            [
+                "action_time", 
+                "float", 
+                "3", 
+                "\u751f\u6548\u65f6\u95f4"
+            ], 
+            [
+                "effect_time", 
+                "float", 
+                "0.5", 
+                "\u8f6c\u573a\u65f6\u95f4"
+            ], 
+            [
+                "discard_wait_time", 
+                "float", 
+                "1", 
+                "\u5f03\u724c\u7b49\u5f85\u65f6\u95f4"
+            ], 
+            [
+                "discard_show_time", 
+                "float", 
+                "1", 
+                "\u5f03\u724c\u5c55\u793a\u65f6\u95f4"
+            ], 
+            [
+                "discard_action_time", 
+                "float", 
+                "2", 
+                "\u5f03\u724c\u751f\u6548\u65f6\u95f4"
+            ], 
+            [
+                "", 
+                "", 
+                "", 
+                ""
+            ], 
+            [
+                "", 
+                "", 
+                "", 
+                ""
+            ]
+        ], 
+        "key": [
+            0
+        ]
+    }, 
+    "table_type": 1, 
+    "tid": 17
+}

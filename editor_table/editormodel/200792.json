@@ -1,0 +1,124 @@
+{
+    "describe": 468867301, 
+    "editor_res": false, 
+    "key": 200792, 
+    "map_name": "x1", 
+    "model_id": 504150, 
+    "name": 1968356537, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Chinese style", 
+            "code_Troop types", 
+            "code_Adult", 
+            "code_Male", 
+            "code_Warrior", 
+            "code_Strong", 
+            "code_Super soldier", 
+            "code_Brown", 
+            "P3(\u4e09\u56fd\u7cfb\u5217)"
+        ]
+    }, 
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            0.5, 
+            2
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/200792", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "res_group": 267, 
+    "res_identify": "all", 
+    "res_type": "code_Role,code_Arms", 
+    "select_effect_scale": 1.0, 
+    "size": 1.0, 
+    "socket_info": {
+        "foot1": {
+            "__tuple__": true, 
+            "items": [
+                "foot1", 
+                "b_LeftToe", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "foot2": {
+            "__tuple__": true, 
+            "items": [
+                "foot2", 
+                "b_RightToe", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand1": {
+            "__tuple__": true, 
+            "items": [
+                "hand1", 
+                "b_LeftHand", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "hand2": {
+            "__tuple__": true, 
+            "items": [
+                "hand2", 
+                "b_RightHand", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "head": {
+            "__tuple__": true, 
+            "items": [
+                "head", 
+                "b_Root", 
+                0.0, 
+                2.0, 
+                0.0
+            ]
+        }, 
+        "hit_point": {
+            "__tuple__": true, 
+            "items": [
+                "hit_point", 
+                "b_Pelvis", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "root": {
+            "__tuple__": true, 
+            "items": [
+                "root", 
+                "b_Root", 
+                0.0, 
+                0.0, 
+                0.0
+            ]
+        }, 
+        "sound": {
+            "__tuple__": true, 
+            "items": [
+                "sound", 
+                "b_Head", 
+                0.2, 
+                0.1, 
+                0.0
+            ]
+        }
+    }, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_200792"
+}

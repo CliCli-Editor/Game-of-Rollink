@@ -1,0 +1,124 @@
+{
+    "column_width": {
+        "4": 99, 
+        "5": 171
+    }, 
+    "table_data": {
+        "column_desc": {}, 
+        "data": [
+            [
+                "card_id", 
+                "card_soldier_type", 
+                "unit_id", 
+                "soldier_image", 
+                "soldier_skill", 
+                "soldier_image_mini", 
+                "red_soldier_image", 
+                "red_soldier_image_mini", 
+                "_soldier_image", 
+                "_red_soldier_image"
+            ], 
+            [
+                "int", 
+                "string", 
+                "unit_type", 
+                "string", 
+                "ability_type", 
+                "image", 
+                "string", 
+                "image", 
+                "image", 
+                "image"
+            ], 
+            [
+                "1", 
+                "\u5251\u58eb", 
+                134231515, 
+                "%soldier_image_swordsman", 
+                134247400, 
+                903555, 
+                "%red_soldier_image_swordsman", 
+                903556, 
+                903547, 
+                903548
+            ], 
+            [
+                "2", 
+                "\u5f13\u5175", 
+                134228828, 
+                "%soldier_image_archer", 
+                134218317, 
+                903551, 
+                "%red_soldier_image_archer", 
+                903552, 
+                903543, 
+                903544
+            ], 
+            [
+                "3", 
+                "\u77db\u5175", 
+                134245934, 
+                "%soldier_image_spearman", 
+                134264194, 
+                903557, 
+                "%red_soldier_image_spearman", 
+                903558, 
+                903549, 
+                903550
+            ], 
+            [
+                "4", 
+                "\u9a91\u5175", 
+                134246151, 
+                "%soldier_image_cavalry", 
+                134257764, 
+                903553, 
+                "%red_soldier_image_cavalry", 
+                903554, 
+                903545, 
+                903546
+            ], 
+            [
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                null, 
+                null, 
+                null, 
+                null
+            ], 
+            [
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                null, 
+                null, 
+                null, 
+                null
+            ], 
+            [
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                "", 
+                null, 
+                null, 
+                null, 
+                null
+            ]
+        ], 
+        "key": [
+            0
+        ]
+    }, 
+    "table_type": 0, 
+    "tid": 5
+}

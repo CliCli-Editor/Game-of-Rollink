@@ -1,0 +1,146 @@
+{
+    "variable_dict": {
+        "BOOLEAN": {
+            "\u6b63\u5728\u5339\u914d": false
+        }, 
+        "INTEGER": {
+            "GLOBAL_BAG_MAX_NUM": 0, 
+            "\u5f53\u524d\u9009\u4e2d\u623f\u95f4ID": 0, 
+            "\u5f53\u524d\u9009\u4e2d\u623f\u95f4\u4f4d\u7f6e": 0, 
+            "\u623f\u95f4ID": 0, 
+            "\u623f\u95f4\u6570\u91cf": 0, 
+            "\u623f\u95f4\u9080\u8bf7\u65b9ID": 0, 
+            "\u9080\u8bf7\u65b9ID": 0, 
+            "\u9080\u8bf7\u65b9\u961f\u4f0dID": 0
+        }, 
+        "NEW_TIMER": {
+            "\u9080\u8bf7\u8ba1\u65f6\u5668": -1
+        }, 
+        "STRING": {
+            "\u9080\u8bf7\u65b9": ""
+        }, 
+        "TABLE": {
+            "UI_Manager": null, 
+            "\u5f53\u524d\u623f\u95f4\u4fe1\u606f": null, 
+            "\u961f\u4f0d\u4fe1\u606f": null
+        }, 
+        "UNIT_ENTITY": {}, 
+        "UNIT_NAME": {}
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "UI_Manager", 
+                "UI_Manager"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "GLOBAL_BAG_MAX_NUM", 
+                "GLOBAL_BAG_MAX_NUM"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9080\u8bf7\u65b9\u961f\u4f0dID", 
+                "\u9080\u8bf7\u65b9\u961f\u4f0dID"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9080\u8bf7\u65b9", 
+                "\u9080\u8bf7\u65b9"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9080\u8bf7\u65b9ID", 
+                "\u9080\u8bf7\u65b9ID"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9080\u8bf7\u8ba1\u65f6\u5668", 
+                "\u9080\u8bf7\u8ba1\u65f6\u5668"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5f53\u524d\u9009\u4e2d\u623f\u95f4\u4f4d\u7f6e", 
+                "\u5f53\u524d\u9009\u4e2d\u623f\u95f4\u4f4d\u7f6e"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u623f\u95f4\u9080\u8bf7\u65b9ID", 
+                "\u623f\u95f4\u9080\u8bf7\u65b9ID"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u623f\u95f4ID", 
+                "\u623f\u95f4ID"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5f53\u524d\u9009\u4e2d\u623f\u95f4ID", 
+                "\u5f53\u524d\u9009\u4e2d\u623f\u95f4ID"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6b63\u5728\u5339\u914d", 
+                "\u6b63\u5728\u5339\u914d"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5f53\u524d\u623f\u95f4\u4fe1\u606f", 
+                "\u5f53\u524d\u623f\u95f4\u4fe1\u606f"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u623f\u95f4\u6570\u91cf", 
+                "\u623f\u95f4\u6570\u91cf"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u961f\u4f0d\u4fe1\u606f", 
+                "\u961f\u4f0d\u4fe1\u606f"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "GLOBAL_BAG_MAX_NUM": 0, 
+        "UI_Manager": 0, 
+        "\u5f53\u524d\u623f\u95f4\u4fe1\u606f": 0, 
+        "\u5f53\u524d\u9009\u4e2d\u623f\u95f4ID": 0, 
+        "\u5f53\u524d\u9009\u4e2d\u623f\u95f4\u4f4d\u7f6e": 0, 
+        "\u623f\u95f4ID": 0, 
+        "\u623f\u95f4\u6570\u91cf": 0, 
+        "\u623f\u95f4\u9080\u8bf7\u65b9ID": 0, 
+        "\u6b63\u5728\u5339\u914d": 0, 
+        "\u9080\u8bf7\u65b9": 0, 
+        "\u9080\u8bf7\u65b9ID": 0, 
+        "\u9080\u8bf7\u65b9\u961f\u4f0dID": 0, 
+        "\u9080\u8bf7\u8ba1\u65f6\u5668": 0, 
+        "\u961f\u4f0d\u4fe1\u606f": 0
+    }
+}

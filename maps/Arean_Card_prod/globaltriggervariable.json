@@ -1,0 +1,118 @@
+{
+    "variable_dict": {
+        "BOOLEAN": {
+            "\u6218\u6597\u56de\u5408": false
+        }, 
+        "INTEGER": {
+            "\u5f53\u524d\u8fdb\u5ea6": 0, 
+            "\u65b0\u624b\u5f15\u5bfc\u6a21\u5f0f": 0, 
+            "\u65b0\u624b\u5f15\u5bfc\u8fdb\u5ea6": 1, 
+            "\u73a9\u5bb6\u9009\u62e9\u9886\u4e3b": 0, 
+            "\u73a9\u5bb6\u9884\u9009\u62e9\u9886\u4e3b": 0, 
+            "\u9886\u4e3b\u88ab\u73a9\u5bb6\u9009\u62e9": 0
+        }, 
+        "NEW_TIMER": {}, 
+        "PLAYER": {
+            "\u65b0\u624b\u73a9\u5bb6": 0
+        }, 
+        "POINT": {
+            "\u51fa\u751f\u70b9\u4f4d": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0
+                ]
+            }
+        }, 
+        "RANDOM_POOL": {
+            "\u9886\u4e3b\u968f\u673a\u6c60": null
+        }, 
+        "UNIT_ENTITY": {}, 
+        "UNIT_NAME": {}
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u51fa\u751f\u70b9\u4f4d", 
+                "\u51fa\u751f\u70b9\u4f4d_2"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9886\u4e3b\u88ab\u73a9\u5bb6\u9009\u62e9", 
+                "\u9886\u4e3b\u88ab\u73a9\u5bb6\u9009\u62e9"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9886\u4e3b\u968f\u673a\u6c60", 
+                "\u9886\u4e3b\u968f\u673a\u6c60"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u9884\u9009\u62e9\u9886\u4e3b", 
+                "\u73a9\u5bb6\u9884\u9009\u62e9\u9886\u4e3b"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73a9\u5bb6\u9009\u62e9\u9886\u4e3b", 
+                "\u73a9\u5bb6\u9009\u62e9\u9886\u4e3b"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u65b0\u624b\u5f15\u5bfc\u8fdb\u5ea6", 
+                "\u65b0\u624b\u5f15\u5bfc\u8fdb\u5ea6"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u65b0\u624b\u5f15\u5bfc\u6a21\u5f0f", 
+                "\u65b0\u624b\u5f15\u5bfc\u6a21\u5f0f"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u65b0\u624b\u73a9\u5bb6", 
+                "\u65b0\u624b\u73a9\u5bb6"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6218\u6597\u56de\u5408", 
+                "\u6218\u6597\u56de\u5408"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5f53\u524d\u8fdb\u5ea6", 
+                "\u5f53\u524d\u8fdb\u5ea6"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "\u51fa\u751f\u70b9\u4f4d": 10, 
+        "\u5f53\u524d\u8fdb\u5ea6": 0, 
+        "\u6218\u6597\u56de\u5408": 0, 
+        "\u65b0\u624b\u5f15\u5bfc\u6a21\u5f0f": 0, 
+        "\u65b0\u624b\u5f15\u5bfc\u8fdb\u5ea6": 0, 
+        "\u65b0\u624b\u73a9\u5bb6": 0, 
+        "\u73a9\u5bb6\u9009\u62e9\u9886\u4e3b": 10, 
+        "\u73a9\u5bb6\u9884\u9009\u62e9\u9886\u4e3b": 10, 
+        "\u9886\u4e3b\u88ab\u73a9\u5bb6\u9009\u62e9": 10, 
+        "\u9886\u4e3b\u968f\u673a\u6c60": 0
+    }
+}

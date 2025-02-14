@@ -1,0 +1,1721 @@
+{
+    "2": {
+        "anim_id": 2, 
+        "anim_name": null, 
+        "enabled": true, 
+        "return_first_frame": false, 
+        "track_data": {
+            "1": {
+                "frame_data": {
+                    "0": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "1": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "7": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "13": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "18": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "24": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "29": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "35": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "40": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "46": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "52": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "57": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "62": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "68": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "73": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "85": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "97": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "112": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "120": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "130": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "135": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "150": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "155": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "170": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "175": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "190": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }
+                }, 
+                "is_loop": false, 
+                "sub_tracks": {
+                    "2": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        -7.0, 
+                                        12.8, 
+                                        51.0
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        -7.0, 
+                                        12.8, 
+                                        51.0
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "120": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        0.25492534041404724, 
+                                        12.800000190734863, 
+                                        53.152732849121094
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "135": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        0.7619900107383728, 
+                                        12.800000190734863, 
+                                        53.33814239501953
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "150": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        1.0, 
+                                        12.8, 
+                                        53.4
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "155": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        1.5, 
+                                        12.8, 
+                                        53.56
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "170": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        2.7, 
+                                        12.8, 
+                                        53.9
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "175": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        4.3, 
+                                        12.8, 
+                                        54.27
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "190": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        4.34, 
+                                        12.8, 
+                                        54.28
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_focus", 
+                        "track_id": 2, 
+                        "track_name": "Focus", 
+                        "track_type": 1
+                    }, 
+                    "3": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 0.1, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.1, 
+                                "value_type": 1
+                            }, 
+                            "120": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.10000000349445526, 
+                                "value_type": 1
+                            }, 
+                            "135": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.10000000129193937, 
+                                "value_type": 1
+                            }, 
+                            "150": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.1, 
+                                "value_type": 1
+                            }, 
+                            "170": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.1, 
+                                "value_type": 1
+                            }, 
+                            "175": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.1, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_dist", 
+                        "track_id": 3, 
+                        "track_name": "Distance", 
+                        "track_type": 2
+                    }, 
+                    "4": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 0.017453292617574334, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.017453292617574334, 
+                                "value_type": 1
+                            }, 
+                            "7": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.02268928033299744, 
+                                "value_type": 1
+                            }, 
+                            "18": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.012217304902151227, 
+                                "value_type": 1
+                            }, 
+                            "29": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.02268928033299744, 
+                                "value_type": 1
+                            }, 
+                            "40": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.013962634140625596, 
+                                "value_type": 1
+                            }, 
+                            "52": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.020943951094523072, 
+                                "value_type": 1
+                            }, 
+                            "62": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.013962634140625596, 
+                                "value_type": 1
+                            }, 
+                            "73": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.02268928033299744, 
+                                "value_type": 1
+                            }, 
+                            "85": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.010471975663676858, 
+                                "value_type": 1
+                            }, 
+                            "97": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.02268928033299744, 
+                                "value_type": 1
+                            }, 
+                            "112": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.010471975663676858, 
+                                "value_type": 1
+                            }, 
+                            "130": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.047123890137299895, 
+                                "value_type": 1
+                            }, 
+                            "150": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.013962634140625596, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_pitch", 
+                        "track_id": 4, 
+                        "track_name": "Pitch", 
+                        "track_type": 3
+                    }, 
+                    "5": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }, 
+                            "13": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.001745329238474369, 
+                                "value_type": 1
+                            }, 
+                            "24": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }, 
+                            "35": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.001745329238474369, 
+                                "value_type": 1
+                            }, 
+                            "46": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }, 
+                            "57": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.001745329238474369, 
+                                "value_type": 1
+                            }, 
+                            "68": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }, 
+                            "120": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }, 
+                            "135": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }, 
+                            "150": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }, 
+                            "170": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }, 
+                            "175": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_roll", 
+                        "track_id": 5, 
+                        "track_name": "Roll", 
+                        "track_type": 4
+                    }, 
+                    "6": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 4.475198760163039, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 4.475198760163039, 
+                                "value_type": 1
+                            }, 
+                            "120": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 4.442676795233221, 
+                                "value_type": 1
+                            }, 
+                            "135": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 4.4495526381290595, 
+                                "value_type": 1
+                            }, 
+                            "150": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 4.450589617481455, 
+                                "value_type": 1
+                            }, 
+                            "170": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 4.457396401558071, 
+                                "value_type": 1
+                            }, 
+                            "175": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 4.457396401558071, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_yaw", 
+                        "track_id": 6, 
+                        "track_name": "Yaw", 
+                        "track_type": 5
+                    }, 
+                    "7": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 50.0, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 50.0, 
+                                "value_type": 1
+                            }, 
+                            "120": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 50.0, 
+                                "value_type": 1
+                            }, 
+                            "135": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 50.0, 
+                                "value_type": 1
+                            }, 
+                            "150": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 50.0, 
+                                "value_type": 1
+                            }, 
+                            "170": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 80.0, 
+                                "value_type": 1
+                            }, 
+                            "175": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 80.0, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_fov", 
+                        "track_id": 7, 
+                        "track_name": "Fov", 
+                        "track_type": 6
+                    }, 
+                    "8": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }, 
+                            "120": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }, 
+                            "135": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }, 
+                            "150": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }, 
+                            "170": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }, 
+                            "175": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_far", 
+                        "track_id": 8, 
+                        "track_name": "FarClipping", 
+                        "track_type": 7
+                    }
+                }, 
+                "track_desc": "code_camline", 
+                "track_id": 1, 
+                "track_name": "Camera", 
+                "track_type": 0
+            }
+        }, 
+        "use_game_last_frame": false
+    }, 
+    "3": {
+        "anim_id": 3, 
+        "anim_name": null, 
+        "enabled": true, 
+        "return_first_frame": false, 
+        "track_data": {
+            "89": {
+                "frame_data": {
+                    "0": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "1": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "40": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "60": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }
+                }, 
+                "is_loop": false, 
+                "sub_tracks": {
+                    "90": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        17.045753479003906, 
+                                        0.0, 
+                                        40.061641693115234
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        17.045753479003906, 
+                                        0.0, 
+                                        40.061641693115234
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "40": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        16.920656204223633, 
+                                        0.0, 
+                                        30.90358543395996
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "60": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        16.920656204223633, 
+                                        0.0, 
+                                        30.90358543395996
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_focus", 
+                        "track_id": 90, 
+                        "track_name": "Focus", 
+                        "track_type": 1
+                    }, 
+                    "91": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 34.48884048581706, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 34.48884048581706, 
+                                "value_type": 1
+                            }, 
+                            "40": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 36.48879996149985, 
+                                "value_type": 1
+                            }, 
+                            "60": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 36.48879996149985, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_dist", 
+                        "track_id": 91, 
+                        "track_name": "Distance", 
+                        "track_type": 2
+                    }, 
+                    "92": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 0.5926959608821193, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.5926959608821193, 
+                                "value_type": 1
+                            }, 
+                            "40": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.4272565982576137, 
+                                "value_type": 1
+                            }, 
+                            "60": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.4272565982576137, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_pitch", 
+                        "track_id": 92, 
+                        "track_name": "Pitch", 
+                        "track_type": 3
+                    }, 
+                    "93": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }, 
+                            "40": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }, 
+                            "60": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_roll", 
+                        "track_id": 93, 
+                        "track_name": "Roll", 
+                        "track_type": 4
+                    }, 
+                    "94": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 0.002576175478496534, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.002576175478496534, 
+                                "value_type": 1
+                            }, 
+                            "40": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.002617993804169938, 
+                                "value_type": 1
+                            }, 
+                            "60": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.002617993804169938, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_yaw", 
+                        "track_id": 94, 
+                        "track_name": "Yaw", 
+                        "track_type": 5
+                    }, 
+                    "95": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 35.0, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 35.0, 
+                                "value_type": 1
+                            }, 
+                            "40": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 35.0, 
+                                "value_type": 1
+                            }, 
+                            "60": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 35.0, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_fov", 
+                        "track_id": 95, 
+                        "track_name": "Fov", 
+                        "track_type": 6
+                    }, 
+                    "96": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }, 
+                            "40": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }, 
+                            "60": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_far", 
+                        "track_id": 96, 
+                        "track_name": "FarClipping", 
+                        "track_type": 7
+                    }
+                }, 
+                "track_desc": "code_camline", 
+                "track_id": 89, 
+                "track_name": "Camera", 
+                "track_type": 0
+            }
+        }, 
+        "use_game_last_frame": false
+    }, 
+    "4": {
+        "anim_id": 4, 
+        "anim_name": null, 
+        "enabled": true, 
+        "return_first_frame": false, 
+        "track_data": {
+            "33": {
+                "frame_data": {
+                    "0": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "1": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "9": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "18": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "25": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "35": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "41": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "48": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "58": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "70": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "75": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "80": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "88": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "92": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }, 
+                    "115": {
+                        "curve_id": null, 
+                        "curve_type": 0, 
+                        "frame_type": 0, 
+                        "frame_value": null, 
+                        "value_type": null
+                    }
+                }, 
+                "is_loop": false, 
+                "sub_tracks": {
+                    "34": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        17.08, 
+                                        14.5, 
+                                        63.45
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        17.08, 
+                                        14.5, 
+                                        63.45
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "25": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        17.07, 
+                                        14.85, 
+                                        63.45
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "35": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        17.07, 
+                                        14.8, 
+                                        63.45
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "41": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        17.06, 
+                                        14.6, 
+                                        60.94
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "48": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        17.06, 
+                                        14.45, 
+                                        56.66
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "58": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        17.051036834716797, 
+                                        13.862207412719727, 
+                                        49.385616302490234
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "70": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        17.0445556640625, 
+                                        13.473381996154785, 
+                                        44.57930374145508
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "80": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        17.041854858398438, 
+                                        13.311370849609375, 
+                                        42.5766716003418
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "92": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        17.040651321411133, 
+                                        13.239130020141602, 
+                                        41.68369674682617
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }, 
+                            "115": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        17.04, 
+                                        13.2, 
+                                        41.2
+                                    ]
+                                }, 
+                                "value_type": 2
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_focus", 
+                        "track_id": 34, 
+                        "track_name": "Focus", 
+                        "track_type": 1
+                    }, 
+                    "35": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 0.4, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.4, 
+                                "value_type": 1
+                            }, 
+                            "9": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1.39, 
+                                "value_type": 1
+                            }, 
+                            "18": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 2.4, 
+                                "value_type": 1
+                            }, 
+                            "25": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 2.2, 
+                                "value_type": 1
+                            }, 
+                            "35": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1.8, 
+                                "value_type": 1
+                            }, 
+                            "58": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.3264214029726211, 
+                                "value_type": 1
+                            }, 
+                            "115": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.4, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_dist", 
+                        "track_id": 35, 
+                        "track_name": "Distance", 
+                        "track_type": 2
+                    }, 
+                    "36": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 0.38397243758663535, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.38397243758663535, 
+                                "value_type": 1
+                            }, 
+                            "9": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.4157374300993979, 
+                                "value_type": 1
+                            }, 
+                            "18": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.34033920615911484, 
+                                "value_type": 1
+                            }, 
+                            "35": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.1832595723681152, 
+                                "value_type": 1
+                            }, 
+                            "48": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.0918043190613389, 
+                                "value_type": 1
+                            }, 
+                            "75": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.21258110413327813, 
+                                "value_type": 1
+                            }, 
+                            "88": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.32358404505066574, 
+                                "value_type": 1
+                            }, 
+                            "115": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.4101523766294122, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_pitch", 
+                        "track_id": 36, 
+                        "track_name": "Pitch", 
+                        "track_type": 3
+                    }, 
+                    "37": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }, 
+                            "115": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 0.0, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_roll", 
+                        "track_id": 37, 
+                        "track_name": "Roll", 
+                        "track_type": 4
+                    }, 
+                    "38": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 6.28318534232676, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 6.28318534232676, 
+                                "value_type": 1
+                            }, 
+                            "115": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 6.265732049709186, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_yaw", 
+                        "track_id": 38, 
+                        "track_name": "Yaw", 
+                        "track_type": 5
+                    }, 
+                    "39": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 40.0, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 40.0, 
+                                "value_type": 1
+                            }, 
+                            "35": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 40.0, 
+                                "value_type": 1
+                            }, 
+                            "92": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 49.78260803222656, 
+                                "value_type": 1
+                            }, 
+                            "115": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 50.0, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_fov", 
+                        "track_id": 39, 
+                        "track_name": "Fov", 
+                        "track_type": 6
+                    }, 
+                    "40": {
+                        "frame_data": {
+                            "0": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": -1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }, 
+                            "1": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }, 
+                            "35": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }, 
+                            "41": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }, 
+                            "58": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }, 
+                            "92": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }, 
+                            "115": {
+                                "curve_id": null, 
+                                "curve_type": 0, 
+                                "frame_type": 1, 
+                                "frame_value": 1000.0, 
+                                "value_type": 1
+                            }
+                        }, 
+                        "is_loop": false, 
+                        "sub_tracks": {}, 
+                        "track_desc": "code_attr_camera_far", 
+                        "track_id": 40, 
+                        "track_name": "FarClipping", 
+                        "track_type": 7
+                    }
+                }, 
+                "track_desc": "code_camline", 
+                "track_id": 33, 
+                "track_name": "Camera", 
+                "track_type": 0
+            }
+        }, 
+        "use_game_last_frame": false
+    }
+}

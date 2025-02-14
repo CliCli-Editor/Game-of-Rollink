@@ -1,0 +1,256 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "1296207874": {
+            "action": [
+                {
+                    "action_type": "PAUSE_TIMER", 
+                    "args_list": [
+                        {
+                            "arg_type": 100181, 
+                            "args_list": [
+                                [
+                                    "NEW_TIMER", 
+                                    "\u968f\u673a\u6280\u80fd", 
+                                    "actor"
+                                ]
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1296207874000006, 
+                    "enable": false
+                }, 
+                {
+                    "action_type": "DELETE_TIMER", 
+                    "args_list": [
+                        {
+                            "arg_type": 100181, 
+                            "args_list": [
+                                [
+                                    "NEW_TIMER", 
+                                    "\u968f\u673a\u6280\u80fd", 
+                                    "actor"
+                                ]
+                            ], 
+                            "sub_type": "VARIABLE"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1296207874000011, 
+                    "enable": false
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1296207874000003, 
+                    "enable": true, 
+                    "event_type": "UNIT_DIE"
+                }
+            ], 
+            "group_id": 134220856, 
+            "p_trigger_id": null, 
+            "trigger_id": 1296207874, 
+            "trigger_name": "\u8bf8\u845b\u4eae-\u5355\u4f4d\u6b7b\u4ea1", 
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
+        }, 
+        "1643991042": {
+            "action": [
+                {
+                    "action_type": "UNIT_RELEASE_COMMAND", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "CUR_UNIT"
+                        }, 
+                        {
+                            "arg_type": 100216, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100023, 
+                                            "args_list": [
+                                                1000000005
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "ROUND_AREA_C_POINT"
+                                }
+                            ], 
+                            "op_arg": [
+                                null
+                            ], 
+                            "op_arg_enable": [
+                                false
+                            ], 
+                            "sub_type": "UNIT_COMMAND_ATTACK_MOVE"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1643991042000002, 
+                    "enable": true, 
+                    "op_arg": [
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                true
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                true
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "op_arg_enable": [
+                        false, 
+                        false
+                    ]
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1643991042000001, 
+                    "enable": true, 
+                    "event_type": "UNIT_BORN"
+                }
+            ], 
+            "group_id": 134220856, 
+            "p_trigger_id": null, 
+            "trigger_id": 1643991042, 
+            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
+            "valid": true, 
+            "var_data": [
+                {}, 
+                {}, 
+                []
+            ]
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1296207874, 
+                        "\u8bf8\u845b\u4eae-\u5355\u4f4d\u6b7b\u4ea1"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        1643991042, 
+                        "\u65b0\u5efa\u89e6\u53d1\u5668"
+                    ]
+                }
+            ], 
+            "key": 134220856, 
+            "name": "134220856"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {
+        "INTEGER": {
+            "i": 0, 
+            "\u968f\u673a\u6cd5\u672f": 1
+        }, 
+        "NEW_TIMER": {
+            "\u968f\u673a\u6280\u80fd": -1
+        }, 
+        "POINT": {
+            "\u73af\u7ed5\u70b9": [
+                0, 
+                0, 
+                0
+            ]
+        }, 
+        "PROJECTILE_ENTITY": {
+            "\u706b": 0, 
+            "\u96f7": 0, 
+            "\u98ce": 0
+        }
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u968f\u673a\u6cd5\u672f", 
+                "\u968f\u673a\u6cd5\u672f"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "i", 
+                "i"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u98ce", 
+                "\u98ce"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u73af\u7ed5\u70b9", 
+                "\u73af\u7ed5\u70b9"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u96f7", 
+                "\u96f7"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u706b", 
+                "\u706b"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u968f\u673a\u6280\u80fd", 
+                "\u968f\u673a\u6280\u80fd"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "i": 0, 
+        "\u706b": 10, 
+        "\u73af\u7ed5\u70b9": 0, 
+        "\u968f\u673a\u6280\u80fd": 0, 
+        "\u968f\u673a\u6cd5\u672f": 0, 
+        "\u96f7": 10, 
+        "\u98ce": 10
+    }
+}

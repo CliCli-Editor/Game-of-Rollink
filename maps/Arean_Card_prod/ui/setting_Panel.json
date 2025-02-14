@@ -1,0 +1,181 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "children": [], 
+            "event_list": [
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "setting_btn_0", 
+                    "not_wait_network": false, 
+                    "sound_id": null, 
+                    "type": 1
+                }
+            ], 
+            "name": "setting_btn", 
+            "normal_picture": 133202, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    1810.9997, 
+                    1042.0002, 
+                    94.3229, 
+                    96.4815, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    60.0, 
+                    66.0
+                ]
+            }, 
+            "type": 1, 
+            "uid": "7f5c4b57-48cf-4eeb-a1b0-496acb70d1ea", 
+            "visible": false
+        }, 
+        {
+            "children": [], 
+            "event_list": [], 
+            "name": "setting_panel_2", 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0, 
+                    50, 
+                    50, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1723.9695, 
+                    949.2726
+                ]
+            }, 
+            "type": 27, 
+            "uid": "647299a8-1138-4ed6-8539-6d0b2820666b", 
+            "visible": false
+        }, 
+        {
+            "adapter_option": [
+                false, 
+                false, 
+                false, 
+                false, 
+                6.0, 
+                1009.0, 
+                1839.5, 
+                15.5
+            ], 
+            "children": [], 
+            "disabled_picture": 134180, 
+            "event_list": [
+                {
+                    "action_list": [
+                        {
+                            "anim_duration": 1.0, 
+                            "anim_id": null, 
+                            "anim_type": 0, 
+                            "comp": "1892f641-21f7-4f9e-ad29-5d736a9954f4", 
+                            "ease_type": 0, 
+                            "name": "Show_6", 
+                            "open_timeline": true, 
+                            "type": 2
+                        }
+                    ], 
+                    "enabled": true, 
+                    "name": "Leave_0", 
+                    "not_wait_network": false, 
+                    "sound_id": null, 
+                    "type": 1
+                }
+            ], 
+            "name": "Leave", 
+            "normal_picture": 134183, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    1873.0003, 
+                    1041.0001, 
+                    97.5521, 
+                    96.3889, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "press_picture": 134181, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    65.0, 
+                    65.0
+                ]
+            }, 
+            "suspend_picture": 134182, 
+            "type": 1, 
+            "uid": "a36dc2ad-45dd-4df2-a50e-270656dd970b"
+        }, 
+        {
+            "children": [], 
+            "disabled_picture": 133199, 
+            "event_list": [
+                {
+                    "action_list": [], 
+                    "enabled": true, 
+                    "name": "CardGuideBtn_0", 
+                    "not_wait_network": false, 
+                    "sound_id": null, 
+                    "type": 1
+                }
+            ], 
+            "name": "CardGuideBtn", 
+            "normal_picture": 133202, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    1810.9997, 
+                    1042.0002, 
+                    94.3229, 
+                    96.4815, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "press_picture": 133200, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    60.5, 
+                    66.0
+                ]
+            }, 
+            "suspend_picture": 133201, 
+            "type": 1, 
+            "uid": "9180143f-bb40-4380-8f88-b0a5edddebe7", 
+            "visible": false
+        }
+    ], 
+    "name": "setting_Panel", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "21685c75-34cb-4cc1-bab2-2ea7a1ba027d", 
+    "visible": true, 
+    "zorder": 400
+}

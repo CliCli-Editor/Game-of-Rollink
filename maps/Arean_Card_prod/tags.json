@@ -1,0 +1,17 @@
+{
+    "ability_all": [], 
+    "editor_decoration": [], 
+    "editor_destructible": [], 
+    "editor_item": [], 
+    "editor_unit": [
+        "warrior", 
+        "\u5175\u79cd", 
+        "\u5251\u58eb", 
+        "\u5f13\u5175", 
+        "\u77db\u5175", 
+        "\u7cbe\u82f1\u5175\u79cd", 
+        "\u9a91\u5175"
+    ], 
+    "modifier_all": [], 
+    "projectile_all": []
+}

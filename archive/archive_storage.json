@@ -1,0 +1,145 @@
+{
+    "ddt": {
+        "archive": {},
+        "platform_prop": {},
+        "role_id": -1
+    },
+    "dev#54385438": {
+        "archive": {
+            "1": {
+                "data_type": 2,
+                "data_value": 1000000
+            },
+            "10": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "2": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "3": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "4": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "5": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "6": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "7": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "8": {
+                "data_type": 4,
+                "data_value": "{\n}"
+            },
+            "9": {
+                "data_type": 2,
+                "data_value": 30
+            }
+        },
+        "platform_prop": {},
+        "role_id": 1
+    },
+    "test_account1": {
+        "archive": {
+            "1": {
+                "data_type": 2,
+                "data_value": 1020000
+            },
+            "10": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "2": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "3": {
+                "data_type": 2,
+                "data_value": 50
+            },
+            "4": {
+                "data_type": 2,
+                "data_value": 2
+            },
+            "5": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "6": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "7": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "8": {
+                "data_type": 4,
+                "data_value": "{\n}"
+            },
+            "9": {
+                "data_type": 2,
+                "data_value": 6
+            }
+        },
+        "platform_prop": {},
+        "role_id": -2
+    },
+    "yixin": {
+        "archive": {
+            "1": {
+                "data_type": 2,
+                "data_value": 990000
+            },
+            "10": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "2": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "3": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "4": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "5": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "6": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "7": {
+                "data_type": 2,
+                "data_value": 0
+            },
+            "8": {
+                "data_type": 4,
+                "data_value": "\"\""
+            },
+            "9": {
+                "data_type": 2,
+                "data_value": 0
+            }
+        },
+        "platform_prop": {},
+        "role_id": -3
+    }
+}

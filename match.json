@@ -1,0 +1,78 @@
+[
+    {
+        "diffuse_time": [
+            5, 
+            5, 
+            5, 
+            5
+        ], 
+        "game_mode": 1002, 
+        "level_id": "214446407184432741615134807172380210722", 
+        "sections": [
+            {
+                "max_score": 1000, 
+                "min_player_num": 2
+            }, 
+            {
+                "max_score": 2000, 
+                "min_player_num": 2
+            }, 
+            {
+                "max_score": 3000, 
+                "min_player_num": 2
+            }, 
+            {
+                "max_score": 4000, 
+                "min_player_num": 2
+            }, 
+            {
+                "max_score": 5000, 
+                "min_player_num": 2
+            }
+        ], 
+        "teams": [
+            1, 
+            1, 
+            1, 
+            1
+        ]
+    }, 
+    {
+        "diffuse_time": [
+            5, 
+            5, 
+            5, 
+            5
+        ], 
+        "game_mode": 1001, 
+        "level_id": "214446407184432741615134807172380210722", 
+        "sections": [
+            {
+                "max_score": 1000, 
+                "min_player_num": 2
+            }, 
+            {
+                "max_score": 2000, 
+                "min_player_num": 2
+            }, 
+            {
+                "max_score": 3000, 
+                "min_player_num": 2
+            }, 
+            {
+                "max_score": 4000, 
+                "min_player_num": 2
+            }, 
+            {
+                "max_score": 5000, 
+                "min_player_num": 2
+            }
+        ], 
+        "teams": [
+            1, 
+            1, 
+            1, 
+            1
+        ]
+    }
+]

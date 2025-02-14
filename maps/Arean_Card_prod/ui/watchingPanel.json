@@ -1,0 +1,180 @@
+{
+    "adapt_mode": 2, 
+    "anim_data": {}, 
+    "children": [
+        {
+            "adapter_option": [
+                true, 
+                true, 
+                true, 
+                true, 
+                0.0, 
+                0.0, 
+                0.0, 
+                0.0
+            ], 
+            "children": [
+                {
+                    "children": [
+                        {
+                            "children": [
+                                {
+                                    "adapter_option": [
+                                        true, 
+                                        true, 
+                                        true, 
+                                        true, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0, 
+                                        0.0
+                                    ], 
+                                    "alignment": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            2, 
+                                            8
+                                        ]
+                                    }, 
+                                    "children": [], 
+                                    "event_list": [], 
+                                    "font": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "HKSongW9", 
+                                            26
+                                        ]
+                                    }, 
+                                    "font_color": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            236, 
+                                            225, 
+                                            178, 
+                                            255
+                                        ]
+                                    }, 
+                                    "name": "label_9", 
+                                    "open_adapter": true, 
+                                    "pos_data": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            499.0, 
+                                            46.0, 
+                                            50, 
+                                            50, 
+                                            1, 
+                                            1
+                                        ]
+                                    }, 
+                                    "prefab_sub_key": null, 
+                                    "scene_ui_name": null, 
+                                    "size": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            998.0, 
+                                            92.0
+                                        ]
+                                    }, 
+                                    "text": {
+                                        "__tuple__": true, 
+                                        "items": [
+                                            "Packing up the table to join the game,please wait", 
+                                            true
+                                        ]
+                                    }, 
+                                    "type": 3, 
+                                    "uid": "34ac3e86-fc12-4e7b-8f4d-f64081b20d73"
+                                }
+                            ], 
+                            "event_list": [], 
+                            "image": 903409, 
+                            "name": "image_52", 
+                            "pos_data": {
+                                "__tuple__": true, 
+                                "items": [
+                                    960.0, 
+                                    537.0, 
+                                    50, 
+                                    50, 
+                                    1, 
+                                    1
+                                ]
+                            }, 
+                            "prefab_sub_key": null, 
+                            "scene_ui_name": null, 
+                            "size": {
+                                "__tuple__": true, 
+                                "items": [
+                                    998.0, 
+                                    92.0
+                                ]
+                            }, 
+                            "type": 4, 
+                            "uid": "cf119969-43e9-4374-940f-9cf10a119521"
+                        }
+                    ], 
+                    "event_list": [], 
+                    "image": 133994, 
+                    "name": "image_36", 
+                    "pos_data": {
+                        "__tuple__": true, 
+                        "items": [
+                            960.0, 
+                            540.0, 
+                            50, 
+                            50, 
+                            1, 
+                            1
+                        ]
+                    }, 
+                    "prefab_sub_key": null, 
+                    "scene_ui_name": null, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            1920.0, 
+                            1074.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "0b415247-a18a-4e9d-8e4a-a756139a7cb3"
+                }
+            ], 
+            "event_list": [], 
+            "image": 133207, 
+            "name": "bg", 
+            "open_adapter": true, 
+            "pos_data": {
+                "__tuple__": true, 
+                "items": [
+                    960.0, 
+                    540.0, 
+                    50, 
+                    50, 
+                    1, 
+                    1
+                ]
+            }, 
+            "prefab_sub_key": null, 
+            "scene_ui_name": null, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    1920.0, 
+                    1080.0
+                ]
+            }, 
+            "swallow_touches": true, 
+            "type": 4, 
+            "uid": "5d4a4bde-dc06-46ca-a1d4-04148ceb4efa"
+        }
+    ], 
+    "name": "watchingPanel", 
+    "opacity": 1.0, 
+    "type": 2, 
+    "ui_anims": [], 
+    "uid": "02068e93-0ed3-4024-b6d8-b629e6930830", 
+    "visible": true, 
+    "zorder": 410
+}
