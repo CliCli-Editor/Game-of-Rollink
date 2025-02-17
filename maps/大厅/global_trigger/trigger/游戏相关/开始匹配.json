@@ -84,9 +84,15 @@
                                                 {
                                                     "arg_type": 100003, 
                                                     "args_list": [
-                                                        "取消匹配"
+                                                        {
+                                                            "arg_type": 100003, 
+                                                            "args_list": [
+                                                                "#ff3ca624-75ef-48b1-a158-1e115efbd8b6#cancel_text"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
                                                     ], 
-                                                    "sub_type": 1
+                                                    "sub_type": "GET_TEXT_CONFIG"
                                                 }
                                             ], 
                                             "bp": false, 
@@ -178,9 +184,15 @@
                                                 {
                                                     "arg_type": 100003, 
                                                     "args_list": [
-                                                        "开始匹配"
+                                                        {
+                                                            "arg_type": 100003, 
+                                                            "args_list": [
+                                                                "#ff3ca624-75ef-48b1-a158-1e115efbd8b6#normal_text"
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }
                                                     ], 
-                                                    "sub_type": 1
+                                                    "sub_type": "GET_TEXT_CONFIG"
                                                 }
                                             ], 
                                             "bp": false, 
