@@ -1,5 +1,7 @@
 {
-    "#8dba6f1c-2786-4c63-951f-2f3b61842fe5#normal_text": "\u9000\u51fa\u6e38\u620f", 
+    "#8dba6f1c-2786-4c63-951f-2f3b61842fe5#normal_text": "Exit", 
+    "#d0fa02fa-40d6-4bc5-ad8b-b8ac43f78342#normal_text": "StartGame", 
+    "#ff3ca624-75ef-48b1-a158-1e115efbd8b6#normal_text": "Match", 
     "$code_camp_referee": "Observer", 
     "$faction 1": "Faction 1", 
     "$faction 2": "Faction 2", 
